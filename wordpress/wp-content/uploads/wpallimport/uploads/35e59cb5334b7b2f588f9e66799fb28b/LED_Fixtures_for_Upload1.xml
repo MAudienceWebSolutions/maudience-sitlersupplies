@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<item><![CDATA[GI-RT-120 LED Retrofit]]></item>
+		<description><![CDATA[GI-RT-120 5000K LED Retrofit*]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[GI-RT-30 LED Retrofit]]></item>
+		<description><![CDATA[GI-RT-30 LED Retrofit]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[GI-RT-400 LED Retrofit]]></item>
+		<description><![CDATA[GI-RT-400 5000K LED Retrofit*]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[GI-RT-75-CRM]]></item>
+		<description><![CDATA[GI-RT-75-CRM* (75 watt LED Retrofit)]]></description>
+		<quantityonhand><![CDATA[-1]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED 100 Watt highbay]]></item>
+		<description><![CDATA[LED 100 Watt highbay (aluminum hood)]]></description>
+		<quantityonhand><![CDATA[2]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED 150 Watt Highbay]]></item>
+		<description><![CDATA[LED 150 Watt High Bay (Aluminum hood) DLC listed]]></description>
+		<quantityonhand><![CDATA[7]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED FL-07 150Watt Flood light 1]]></item>
+		<description><![CDATA[LED FL-07  Flood light (150W/100-277V)]]></description>
+		<quantityonhand><![CDATA[12]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED WP-120W]]></item>
+		<description><![CDATA[LED WP-120W (120 watt wall pack)]]></description>
+		<quantityonhand><![CDATA[-1]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED WP-60W]]></item>
+		<description><![CDATA[LED WP-60W (60 Watt LED wall pack - 175-200 watt MH replacement)]]></description>
+		<quantityonhand><![CDATA[19]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SS-FL150W]]></item>
+		<description><![CDATA[SS-FL150W (150 watt LED flood light)]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SS-FL75W]]></item>
+		<description><![CDATA[SS-FL75W(75 watt LED flood light)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED 200 Watt Highbay]]></item>
+		<description><![CDATA[LED 200 Watt High Bay (Aluminum hood) DLC listed]]></description>
+		<quantityonhand><![CDATA[7]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[GI-RT-30 LED Retrofit]]></item>
+		<description><![CDATA[GI-RT-150 LED Retrofit]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+</data>

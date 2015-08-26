@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<item><![CDATA[BLC]]></item>
+		<description><![CDATA[BLC (30W/115-125V/S11/Ba15d) DELISTED]]></description>
+		<quantityonhand><![CDATA[-4]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[]]></type>
+	</node>
+	<node>
+		<item><![CDATA[BRL Osram]]></item>
+		<description><![CDATA[BRL Osram 64610 (50W/12V/T3/G6.35)]]></description>
+		<quantityonhand><![CDATA[58]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[]]></type>
+	</node>
+	<node>
+		<item><![CDATA[EJA Osram]]></item>
+		<description><![CDATA[EJA Osram  (150W/21V/MR16/Gx5.3)]]></description>
+		<quantityonhand><![CDATA[22]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[]]></type>
+	</node>
+	<node>
+		<item><![CDATA[EKE Osram]]></item>
+		<description><![CDATA[EKE Osram  (150W/21V/MR16/Gx5.3)]]></description>
+		<quantityonhand><![CDATA[14]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[]]></type>
+	</node>
+	<node>
+		<item><![CDATA[ESA Osram]]></item>
+		<description><![CDATA[ESA Osram 64225  (10W/6V/T3/G4)]]></description>
+		<quantityonhand><![CDATA[6]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[]]></type>
+	</node>
+	<node>
+		<item><![CDATA[EVA Osram 64623HLX]]></item>
+		<description><![CDATA[EVA Osram 64623HLX (100W/12V/T4/Gy6.35)]]></description>
+		<quantityonhand><![CDATA[3]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[]]></type>
+	</node>
+	<node>
+		<item><![CDATA[FCR Osram]]></item>
+		<description><![CDATA[FCR Osram  64625HLX  (100W/12V/T3.5/Gy6.35)]]></description>
+		<quantityonhand><![CDATA[4]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[]]></type>
+	</node>
+	<node>
+		<item><![CDATA[CXE300]]></item>
+		<description><![CDATA[CXE300- Olympus scope bulb..300W Xenon]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[]]></type>
+	</node>
+	<node>
+		<item><![CDATA[1460X]]></item>
+		<description><![CDATA[1460X Eiko (2.75A/6.5V/S8/DCPrefocus)]]></description>
+		<quantityonhand><![CDATA[4]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[Miniatures]]></type>
+	</node>
+	<node>
+		<item><![CDATA[JC6V30W/G4]]></item>
+		<description><![CDATA[JC6V30W/G4]]></description>
+		<quantityonhand><![CDATA[6]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[Non-Asi]]></type>
+	</node>
+	<node>
+		<item><![CDATA[HBO100W/2]]></item>
+		<description><![CDATA[HBO100W2  20V]]></description>
+		<quantityonhand><![CDATA[3]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[Speciality Discharge]]></type>
+	</node>
+	<node>
+		<item><![CDATA[HBO103W/2 23V]]></item>
+		<description><![CDATA[HBO103W/2 23V..]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[Speciality Discharge]]></type>
+	</node>
+	<node>
+		<item><![CDATA[USH50-AC1]]></item>
+		<description><![CDATA[SHL50-AC1 - (Mercury SA/39-45V/50W/1.3a/100Hr) = Osram HBO50WACL/1]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[Speciality Discharge]]></type>
+	</node>
+	<node>
+		<item><![CDATA[USH50-AC2]]></item>
+		<description><![CDATA[SHL50-AC2 - (Mercury SA/34-39V/50W/1.46a/100Hr) = Osram HBO50WACL/2]]></description>
+		<quantityonhand><![CDATA[5]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[Speciality Discharge]]></type>
+	</node>
+	<node>
+		<item><![CDATA[XBO75W2/OFR]]></item>
+		<description><![CDATA[XBO75W/2 OFR  69232]]></description>
+		<quantityonhand><![CDATA[9]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[Speciality Discharge]]></type>
+	</node>
+	<node>
+		<item><![CDATA[HBO50W/3]]></item>
+		<description><![CDATA[HBO50W/3 - (Mercury SA/23V/50W/200Hr) = Osram HBO50W/3]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+		<type><![CDATA[Speciality Discharge]]></type>
+	</node>
+</data>

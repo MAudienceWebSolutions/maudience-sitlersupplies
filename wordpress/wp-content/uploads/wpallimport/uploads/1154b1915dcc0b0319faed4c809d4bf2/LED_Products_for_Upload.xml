@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<item><![CDATA[LED Fixtures:GI-RT-120 LED Retrofit]]></item>
+		<description><![CDATA[GI-RT-120 5000K LED Retrofit*]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:GI-RT-30 LED Retrofit]]></item>
+		<description><![CDATA[GI-RT-30 LED Retrofit]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:GI-RT-400 LED Retrofit]]></item>
+		<description><![CDATA[GI-RT-400 5000K LED Retrofit*]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:GI-RT-75-CRM]]></item>
+		<description><![CDATA[GI-RT-75-CRM* (75 watt LED Retrofit)]]></description>
+		<quantityonhand><![CDATA[-1]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:LED 100 Watt highbay]]></item>
+		<description><![CDATA[LED 100 Watt highbay (aluminum hood)]]></description>
+		<quantityonhand><![CDATA[2]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:LED 150 Watt Highbay]]></item>
+		<description><![CDATA[LED 150 Watt High Bay (Aluminum hood) DLC listed]]></description>
+		<quantityonhand><![CDATA[7]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:LED FL-07 150Watt Flood light 1]]></item>
+		<description><![CDATA[LED FL-07  Flood light (150W/100-277V)]]></description>
+		<quantityonhand><![CDATA[12]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:LED WP-120W]]></item>
+		<description><![CDATA[LED WP-120W (120 watt wall pack)]]></description>
+		<quantityonhand><![CDATA[-1]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:LED WP-60W]]></item>
+		<description><![CDATA[LED WP-60W (60 Watt LED wall pack - 175-200 watt MH replacement)]]></description>
+		<quantityonhand><![CDATA[19]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:SS-FL150W]]></item>
+		<description><![CDATA[SS-FL150W (150 watt LED flood light)]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:SS-FL75W]]></item>
+		<description><![CDATA[SS-FL75W(75 watt LED flood light)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:LED 200 Watt Highbay]]></item>
+		<description><![CDATA[LED 200 Watt High Bay (Aluminum hood) DLC listed]]></description>
+		<quantityonhand><![CDATA[7]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[LED Fixtures:GI-RT-30 LED Retrofit]]></item>
+		<description><![CDATA[GI-RT-150 LED Retrofit]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<item><![CDATA[]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-12W-5K]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-14W-5K]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-18W-41K]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-18W-27K-OC]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-18W-27K]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-18W-5K]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[]]></category>
+	</node>
+	<node>
+		<item><![CDATA[ONCE LED"S:MLB-FSWB-JB-180-012-120]]></item>
+		<description><![CDATA[MLB-FSWB-JB-180-012-120 (12W/Poultry/JB mount/Dim to blue)]]></description>
+		<quantityonhand><![CDATA[-338]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+	</node>
+	<node>
+		<item><![CDATA[ONCE LED"S:MLB-FSWB-JJ-180-012-120]]></item>
+		<description><![CDATA[MLB-FSWB-JJ-180-012-120 (12W Poultry/JJ mount/E26/Dim to blue)]]></description>
+		<quantityonhand><![CDATA[-1]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+	</node>
+	<node>
+		<item><![CDATA[ONCE LED"S:MLL-FSWR-JB-180-012-120]]></item>
+		<description><![CDATA[MLL-FSWR-JB-180-012-120 (12W Poultry/Junction box Dim to Red)]]></description>
+		<quantityonhand><![CDATA[-108]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+	</node>
+	<node>
+		<item><![CDATA[ONCE LED"S:MLL-FSWR-JJ-180-012-120]]></item>
+		<description><![CDATA[MLL-FSWR-JJ-180-012-120]]></description>
+		<quantityonhand><![CDATA[-3]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+	</node>
+	<node>
+		<item><![CDATA[ONCE LED"S:MLS-FSWR-JB-180-014-120]]></item>
+		<description><![CDATA[MLS-FSWR-JB-180-014-120 (14W Swine/Junct Box Adapter/JB adapter)]]></description>
+		<quantityonhand><![CDATA[870]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+	</node>
+	<node>
+		<item><![CDATA[ONCE LED"S:MLS-FSWR-JJ-180-014-120]]></item>
+		<description><![CDATA[MLS-FSWR-JJ-180-014-120 (14W Swine/JJ adapter/JJ connector)]]></description>
+		<quantityonhand><![CDATA[275]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+	</node>
+	<node>
+		<item><![CDATA[ONCE LED"S:MLA-15-HW]]></item>
+		<description><![CDATA[15W 120V LED aquaculture applications]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+	</node>
+	<node>
+		<item><![CDATA[ONCE LED"S:MLA-1]]></item>
+		<description><![CDATA[15W 120VAC LED aquaculture fixture]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+	</node>
+	<node>
+		<item><![CDATA[]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[]]></category>
+	</node>
+	<node>
+		<item><![CDATA[BLC]]></item>
+		<description><![CDATA[BLC (30W/115-125V/S11/Ba15d) DELISTED]]></description>
+		<quantityonhand><![CDATA[-4]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[BRL Osram]]></item>
+		<description><![CDATA[BRL Osram 64610 (50W/12V/T3/G6.35)]]></description>
+		<quantityonhand><![CDATA[58]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EJA Osram]]></item>
+		<description><![CDATA[EJA Osram  (150W/21V/MR16/Gx5.3)]]></description>
+		<quantityonhand><![CDATA[22]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EKE Osram]]></item>
+		<description><![CDATA[EKE Osram  (150W/21V/MR16/Gx5.3)]]></description>
+		<quantityonhand><![CDATA[14]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[ESA Osram]]></item>
+		<description><![CDATA[ESA Osram 64225  (10W/6V/T3/G4)]]></description>
+		<quantityonhand><![CDATA[6]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EVA Osram 64623HLX]]></item>
+		<description><![CDATA[EVA Osram 64623HLX (100W/12V/T4/Gy6.35)]]></description>
+		<quantityonhand><![CDATA[3]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FCR Osram]]></item>
+		<description><![CDATA[FCR Osram  64625HLX  (100W/12V/T3.5/Gy6.35)]]></description>
+		<quantityonhand><![CDATA[4]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Medical:CXE300]]></item>
+		<description><![CDATA[CXE300- Olympus scope bulb..300W Xenon]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Miniatures:1460X]]></item>
+		<description><![CDATA[1460X Eiko (2.75A/6.5V/S8/DCPrefocus)]]></description>
+		<quantityonhand><![CDATA[4]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Non-Ansi:JC6V30W/G4]]></item>
+		<description><![CDATA[JC6V30W/G4]]></description>
+		<quantityonhand><![CDATA[6]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Speciality Discharge:HBO100W/2]]></item>
+		<description><![CDATA[HBO100W2  20V]]></description>
+		<quantityonhand><![CDATA[3]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Speciality Discharge:HBO103W/2 23V]]></item>
+		<description><![CDATA[HBO103W/2 23V..]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Speciality Discharge:USH50-AC1]]></item>
+		<description><![CDATA[SHL50-AC1 - (Mercury SA/39-45V/50W/1.3a/100Hr) = Osram HBO50WACL/1]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Speciality Discharge:USH50-AC2]]></item>
+		<description><![CDATA[SHL50-AC2 - (Mercury SA/34-39V/50W/1.46a/100Hr) = Osram HBO50WACL/2]]></description>
+		<quantityonhand><![CDATA[5]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Speciality Discharge:XBO75W2/OFR]]></item>
+		<description><![CDATA[XBO75W/2 OFR  69232]]></description>
+		<quantityonhand><![CDATA[9]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Speciality Discharge:HBO50W/3]]></item>
+		<description><![CDATA[HBO50W/3 - (Mercury SA/23V/50W/200Hr) = Osram HBO50W/3]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<item><![CDATA[]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[]]></category>
+	</node>
+	<node>
+		<item><![CDATA[BTL Osram]]></item>
+		<description><![CDATA[BTL  Osram (Q500T6/5CL/120V)]]></description>
+		<quantityonhand><![CDATA[32]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[BTM Osram]]></item>
+		<description><![CDATA[BTM Osram (Q500T6/4CL/2P)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[BTN Osram]]></item>
+		<description><![CDATA[BTN  Osram (Q750T7/120V/CL/P28s/)]]></description>
+		<quantityonhand><![CDATA[22]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[BTP  Osram]]></item>
+		<description><![CDATA[BTP  GE(Q750T7/4CL/2P/P28s)]]></description>
+		<quantityonhand><![CDATA[8]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[BTR Osram]]></item>
+		<description><![CDATA[BTR Osram (Q1000T7/4CL/2P)]]></description>
+		<quantityonhand><![CDATA[22]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[BVT Osram]]></item>
+		<description><![CDATA[BVT Osram (Q1000/T7/CL/MP/120V)]]></description>
+		<quantityonhand><![CDATA[20]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[BVV Osram]]></item>
+		<description><![CDATA[BVV Osram (Q1000T7/4CL/MP)]]></description>
+		<quantityonhand><![CDATA[11]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[BVW Osram]]></item>
+		<description><![CDATA[BVW Osram (2000W/120V/T9.5/P40s)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[CYV Osram]]></item>
+		<description><![CDATA[CYV Osram (Q1000T7/4CL/BP/G38)]]></description>
+		<quantityonhand><![CDATA[21]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[CYX Osram]]></item>
+		<description><![CDATA[CYX Osram (2000W/120V/T9/G38)]]></description>
+		<quantityonhand><![CDATA[14]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[DKZ]]></item>
+		<description><![CDATA[See also - JT120V1000WB]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[DKZ/DSE]]></item>
+		<description><![CDATA[DKZ (Q1000W/PS52/CL/MOG/4)   ..]]></description>
+		<quantityonhand><![CDATA[2]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[DMX]]></item>
+		<description><![CDATA[DMX (500W/120V/T20/P28s)]]></description>
+		<quantityonhand><![CDATA[5]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[DPY Osram]]></item>
+		<description><![CDATA[DPY Osram (5000W/120V/T17/G38)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[DTA GE]]></item>
+		<description><![CDATA[DTA GE (Q1500T8/4CL/120V)..DELISTED]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[DWE Osram]]></item>
+		<description><![CDATA[DWE Osram (650Par36/120V/G53ScrewTerm)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[DWT GE]]></item>
+		<description><![CDATA[DWT GE (Q1000/T6/CL)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[DXW Osram]]></item>
+		<description><![CDATA[DXW Osram (1000W/120V/T5/R7s) (12/cs)]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[DYS Osram]]></item>
+		<description><![CDATA[BHC/DYS/DYV Osram (600W/120V/T6/Gz9.5)]]></description>
+		<quantityonhand><![CDATA[67]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[DYS/5 Wiko]]></item>
+		<description><![CDATA[DYS/5 Wiko (600W/125V/G7/Gz9.5)]]></description>
+		<quantityonhand><![CDATA[5]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EGE Osram]]></item>
+		<description><![CDATA[EGE Osram (Q500CL/P/120V)]]></description>
+		<quantityonhand><![CDATA[11]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EGF GE]]></item>
+		<description><![CDATA[EGF GE  (750W/120V/T5/P28s)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EGG GE]]></item>
+		<description><![CDATA[EGG GE (Q750CL/P/120V)]]></description>
+		<quantityonhand><![CDATA[10]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EGJ Osram]]></item>
+		<description><![CDATA[EGJ Osram (Q1000/4CL/P/120VP28s)]]></description>
+		<quantityonhand><![CDATA[6]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EGK Osram]]></item>
+		<description><![CDATA[EGK Osram  (1000W/120V/T6/P28s)]]></description>
+		<quantityonhand><![CDATA[12]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EGM GE]]></item>
+		<description><![CDATA[EGM  GE (Q1000CL/P)]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EGN Osram]]></item>
+		<description><![CDATA[EGN Osram (Q500T6/120V)]]></description>
+		<quantityonhand><![CDATA[6]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EGR]]></item>
+		<description><![CDATA[EGR Osram (Q750T7/CL/120V)]]></description>
+		<quantityonhand><![CDATA[13]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EGT Osram]]></item>
+		<description><![CDATA[EGT Osram (1000W/120V/T7/G22)]]></description>
+		<quantityonhand><![CDATA[33]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EHC Osram]]></item>
+		<description><![CDATA[EHC/EHB Osram (Q500/5CL)]]></description>
+		<quantityonhand><![CDATA[6]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EHD Osram]]></item>
+		<description><![CDATA[EHD Osram (Q500CL/120V/T4/G9.5)]]></description>
+		<quantityonhand><![CDATA[12]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EHF Osram]]></item>
+		<description><![CDATA[EHF Osram (Q750/4CL/T5/G9.5/120V)]]></description>
+		<quantityonhand><![CDATA[15]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EHG Osram]]></item>
+		<description><![CDATA[EHG  Osram  (Q750CL/TP/120V)]]></description>
+		<quantityonhand><![CDATA[4]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EHJ Osram]]></item>
+		<description><![CDATA[EHJ  64655/HLX  Osram (250W/24V/T4/G6.35)]]></description>
+		<quantityonhand><![CDATA[5]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EHM Ushio]]></item>
+		<description><![CDATA[EHM Ushio (Q300T2.5/CL/120V)]]></description>
+		<quantityonhand><![CDATA[4]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EHP Ushio]]></item>
+		<description><![CDATA[EHP Ushio Q300T4/CL/120V]]></description>
+		<quantityonhand><![CDATA[4]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EHR Eiko]]></item>
+		<description><![CDATA[EHR Eiko (400W/120V/T4/R7s)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EHT Osram]]></item>
+		<description><![CDATA[EHT Osram (Q250CL/MC/120V)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EJG Osram]]></item>
+		<description><![CDATA[EJG Osram (750w/120v//T3/R7s)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EKB Ushio]]></item>
+		<description><![CDATA[EKB Ushio (JCD120V420WC)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EKD]]></item>
+		<description><![CDATA[EKD (650W/120V/G6/GZ9.5)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EMD Ushio]]></item>
+		<description><![CDATA[(Q750T3/4-120V)  EMD Ushio]]></description>
+		<quantityonhand><![CDATA[17]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[ETC Osram]]></item>
+		<description><![CDATA[ETC Osram (Q150CL/DC)]]></description>
+		<quantityonhand><![CDATA[2]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EVR GE]]></item>
+		<description><![CDATA[EVR GE (Q500CL/MC/120V)]]></description>
+		<quantityonhand><![CDATA[3]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EXN Wiko]]></item>
+		<description><![CDATA[EXN Wiko  (50W/12V/MR16/Gu5.3/38degFL)]]></description>
+		<quantityonhand><![CDATA[5]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EXY Osram]]></item>
+		<description><![CDATA[EXY Osram  (250W/82V/T3.5/Gx5.3)]]></description>
+		<quantityonhand><![CDATA[15]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EYC Wiko]]></item>
+		<description><![CDATA[EYC Wiko  (75W/12V/38degFL/MR16/Gu5.3)]]></description>
+		<quantityonhand><![CDATA[28]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[EZK GE]]></item>
+		<description><![CDATA[EZK GE  (150W/120V/MR16/GY5.3)]]></description>
+		<quantityonhand><![CDATA[10]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FAY GE]]></item>
+		<description><![CDATA[FAY GE (Q650PAR36/3D/120V/Ferrule)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FBX Ushio]]></item>
+		<description><![CDATA[FBX Ushio  (650W/120V)]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FCB Osram]]></item>
+		<description><![CDATA[FCB Osram (600W/120V/R7s)]]></description>
+		<quantityonhand><![CDATA[22]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FCL GE]]></item>
+		<description><![CDATA[FCL  GE (Q500T3/CL)]]></description>
+		<quantityonhand><![CDATA[54]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FCM Osram]]></item>
+		<description><![CDATA[FCM  Osram (Q1000T3/4CL/120V)]]></description>
+		<quantityonhand><![CDATA[18]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FCM/HIR  GE]]></item>
+		<description><![CDATA[FCM/HIR  GE (Q650T3/4) (650W/120V/T3/R7S)..DISCONTINUED-NO REPLACEMENT]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FCX GE]]></item>
+		<description><![CDATA[FCX GE (Q650Par36/7/120V/Ferrule/MFL)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FDA Osram]]></item>
+		<description><![CDATA[FDA  Osram (Q400T4/4CL)]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FDB Osram]]></item>
+		<description><![CDATA[FDB Osram (Q1500T4/4CL/120V)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FDF Osram]]></item>
+		<description><![CDATA[FDF  Osram (Q500T3/4CL)]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FEL Osram]]></item>
+		<description><![CDATA[FEL Osram (Q1000/4CL/120V/G9.5)]]></description>
+		<quantityonhand><![CDATA[149]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FEV Osram]]></item>
+		<description><![CDATA[FEV Osram (200T3Q/CL/120V)]]></description>
+		<quantityonhand><![CDATA[24]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FEY Ushio]]></item>
+		<description><![CDATA[FEY Ushio (2000W/120V/T8/Rx7s)]]></description>
+		<quantityonhand><![CDATA[2]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FFJ Osram]]></item>
+		<description><![CDATA[FFJ Osram (600W/120V/T4/R7s)]]></description>
+		<quantityonhand><![CDATA[42]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FFM Osram]]></item>
+		<description><![CDATA[FFM Osram (420W/120V/T4/R7s)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FFR Osram]]></item>
+		<description><![CDATA[FFR Osram (Q1000PAR64/5MFL 120V)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FFS Osram]]></item>
+		<description><![CDATA[FFS Osram (Q1000PAR64/6WFL 120V)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FFT Osram]]></item>
+		<description><![CDATA[FFT Osram (Q1000T3/1CL/120V)]]></description>
+		<quantityonhand><![CDATA[46]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FGT Ushio]]></item>
+		<description><![CDATA[FGT Ushio (Q1500T4/4 120V)]]></description>
+		<quantityonhand><![CDATA[10]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FHM Osram]]></item>
+		<description><![CDATA[FHM  Osram (Q1000/T3/4/120V/FR)]]></description>
+		<quantityonhand><![CDATA[32]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FKW Osram]]></item>
+		<description><![CDATA[FKW Osram (300W/120V/T6/GY9.35)]]></description>
+		<quantityonhand><![CDATA[2]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FLE Osram]]></item>
+		<description><![CDATA[FLE Osram  (360W/82V/T3.5/Gy5.3)]]></description>
+		<quantityonhand><![CDATA[30]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FLK  Osram]]></item>
+		<description><![CDATA[FLK  Osram (Q575T6)]]></description>
+		<quantityonhand><![CDATA[2]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FLK Osram]]></item>
+		<description><![CDATA[FLK Osram (575W/115V/T6/G9.5/300Hr/16500L)]]></description>
+		<quantityonhand><![CDATA[121]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FRG Osram]]></item>
+		<description><![CDATA[FRG Osram]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FRK Osram]]></item>
+		<description><![CDATA[FRK Osram (650W/120V/T6/Gy9.5)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[FTK Osram]]></item>
+		<description><![CDATA[FTK Osram (500W/120V/T6/Gy9.5)]]></description>
+		<quantityonhand><![CDATA[14]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[GCA Osram]]></item>
+		<description><![CDATA[GCA Osram  (250W/120V/G5.3)]]></description>
+		<quantityonhand><![CDATA[6]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[GCC Osram]]></item>
+		<description><![CDATA[GCC Osram  (100W/12V/T3/G5.3)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[GLA Osram]]></item>
+		<description><![CDATA[GLA Osram (575W/115V/2000Hr/T6/G9.5/10500L)]]></description>
+		<quantityonhand><![CDATA[8]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[GLC GE]]></item>
+		<description><![CDATA[GLC GE]]></description>
+		<quantityonhand><![CDATA[6]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[GLD Osram]]></item>
+		<description><![CDATA[GLD (750w/115v/G9.5/300Hr/19K L)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[GLG Osram]]></item>
+		<description><![CDATA[Osram HP 375 GLG (375W/115V/300Hr/T6/G9.5/10000L)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HPL375/115V Osram]]></item>
+		<description><![CDATA[Osram 54625  HPL375/115V  (375W/115V/300Hr/10540L)]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HPL375/115X Osram]]></item>
+		<description><![CDATA[Osram 54649  HPL375/115X (375W/115V/1000Hr/8000L)]]></description>
+		<quantityonhand><![CDATA[22]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HPL550/77V Osram]]></item>
+		<description><![CDATA[Osram 54623  HPL550/77V]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HPL575/115V Osram]]></item>
+		<description><![CDATA[Osram 54622  HPL575/115V  (575w/115v/300Hr/16500L)]]></description>
+		<quantityonhand><![CDATA[182]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HPL575/115X Osram]]></item>
+		<description><![CDATA[Osram 54807  HPL575/115X  (575W/115V/1500Hr/12360L)]]></description>
+		<quantityonhand><![CDATA[181]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HPL575/120V Osram]]></item>
+		<description><![CDATA[Osram 54817  HPL575/120V (575w/120V/300Hr/16460L)]]></description>
+		<quantityonhand><![CDATA[97]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HPL575/120X Osram]]></item>
+		<description><![CDATA[Osram 54815  HPL575/120X  (575w/120X/2000Hr/12360L)]]></description>
+		<quantityonhand><![CDATA[-4]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HPL750/120V Osram]]></item>
+		<description><![CDATA[Osram 54605  HPL750/120V (750W/120V/300Hr/21900L)]]></description>
+		<quantityonhand><![CDATA[48]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HPL750/120X Osram]]></item>
+		<description><![CDATA[Osram 54653  HPL750/120X (750W/120V/1500Hr/16400L)]]></description>
+		<quantityonhand><![CDATA[51]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HPR575/115V Osram]]></item>
+		<description><![CDATA[HPR575/115V (575W  High performance reflector- (= to FLK/ HX600)300Hr/ 18000L]]></description>
+		<quantityonhand><![CDATA[16]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[HSR575/72 Osram]]></item>
+		<description><![CDATA[HSR575/72 Osram]]></description>
+		<quantityonhand><![CDATA[3]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Incandescent:300PAR56/MFL/120V Osram]]></item>
+		<description><![CDATA[300PAR56/MFL/120V Osram]]></description>
+		<quantityonhand><![CDATA[1]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Incandescent:300PAR56/NSP Osram]]></item>
+		<description><![CDATA[300PAR56/NSP/120v Osram]]></description>
+		<quantityonhand><![CDATA[5]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Incandescent:300PAR56/WFL Osram]]></item>
+		<description><![CDATA[300PAR56/WFL/120v Osram]]></description>
+		<quantityonhand><![CDATA[3]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Incandescent:500PAR64/MFL/120V Osram]]></item>
+		<description><![CDATA[Osram 500PAR64/MFL/120V]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Incandescent:500PAR64/NSP/120V Osram]]></item>
+		<description><![CDATA[Osram 14938  500PAR64/NSP/120V]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Incandescent:500PAR64/WFL/120V Osram]]></item>
+		<description><![CDATA[Osram 14935  500PAR64/WFL/120V]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Non-Ansi:64657HLX Osram]]></item>
+		<description><![CDATA[64657HLX Osram EVC (250W/24V/G6.35)]]></description>
+		<quantityonhand><![CDATA[49]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Non-Ansi:JT120V1000WB]]></item>
+		<description><![CDATA[JT120V1000WB (1000W/2000HR/Tube/MOG/CL)]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Q500PAR56/MFL Osram]]></item>
+		<description><![CDATA[Q500PAR56/MFL/120V Osram]]></description>
+		<quantityonhand><![CDATA[2]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Q500PAR56/NSP Osram]]></item>
+		<description><![CDATA[Q500PAR56/NSP/120v Osram]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Q500PAR56/WFL Osram]]></item>
+		<description><![CDATA[Q500PAR56/WFL/120V Osram]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Speciality Discharge:HSD250/78]]></item>
+		<description><![CDATA[HSD250/78/90V Osram]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Speciality Discharge:HSR400]]></item>
+		<description><![CDATA[HSR400 67V Osram]]></description>
+		<quantityonhand><![CDATA[2]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+	<node>
+		<item><![CDATA[Speciality Discharge:HTI700/D4/75]]></item>
+		<description><![CDATA[HTI700/D4/75 Osram SHARX]]></description>
+		<quantityonhand><![CDATA[0]]></quantityonhand>
+		<category><![CDATA[Stage/Studio]]></category>
+	</node>
+</data>

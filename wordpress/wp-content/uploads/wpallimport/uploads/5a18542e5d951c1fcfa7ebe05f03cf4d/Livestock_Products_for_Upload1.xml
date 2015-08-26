@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<item><![CDATA[MLB-FSWB-JB-180-012-120]]></item>
+		<description><![CDATA[MLB-FSWB-JB-180-012-120 (12W/Poultry/JB mount/Dim to blue)]]></description>
+		<quantityonhand><![CDATA[-338]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+		<brand><![CDATA[ONCE LED'S]]></brand>
+	</node>
+	<node>
+		<item><![CDATA[MLB-FSWB-JJ-180-012-120]]></item>
+		<description><![CDATA[MLB-FSWB-JJ-180-012-120 (12W Poultry/JJ mount/E26/Dim to blue)]]></description>
+		<quantityonhand><![CDATA[-1]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+		<brand><![CDATA[ONCE LED'S]]></brand>
+	</node>
+	<node>
+		<item><![CDATA[MLL-FSWR-JB-180-012-120]]></item>
+		<description><![CDATA[MLL-FSWR-JB-180-012-120 (12W Poultry/Junction box Dim to Red)]]></description>
+		<quantityonhand><![CDATA[-108]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+		<brand><![CDATA[ONCE LED'S]]></brand>
+	</node>
+	<node>
+		<item><![CDATA[MLL-FSWR-JJ-180-012-120]]></item>
+		<description><![CDATA[MLL-FSWR-JJ-180-012-120]]></description>
+		<quantityonhand><![CDATA[-3]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+		<brand><![CDATA[ONCE LED'S]]></brand>
+	</node>
+	<node>
+		<item><![CDATA[MLS-FSWR-JB-180-014-120]]></item>
+		<description><![CDATA[MLS-FSWR-JB-180-014-120 (14W Swine/Junct Box Adapter/JB adapter)]]></description>
+		<quantityonhand><![CDATA[870]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+		<brand><![CDATA[ONCE LED'S]]></brand>
+	</node>
+	<node>
+		<item><![CDATA[MLS-FSWR-JJ-180-014-120]]></item>
+		<description><![CDATA[MLS-FSWR-JJ-180-014-120 (14W Swine/JJ adapter/JJ connector)]]></description>
+		<quantityonhand><![CDATA[275]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+		<brand><![CDATA[ONCE LED'S]]></brand>
+	</node>
+	<node>
+		<item><![CDATA[MLA-15-HW]]></item>
+		<description><![CDATA[15W 120V LED aquaculture applications]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+		<brand><![CDATA[ONCE LED'S]]></brand>
+	</node>
+	<node>
+		<item><![CDATA[MLA-1]]></item>
+		<description><![CDATA[15W 120VAC LED aquaculture fixture]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[Livestock/Ag LED]]></category>
+		<brand><![CDATA[ONCE LED'S]]></brand>
+	</node>
+</data>

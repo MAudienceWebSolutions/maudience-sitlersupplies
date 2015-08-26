@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<item><![CDATA[SIT-LEDT8-12W-5K]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-14W-5K]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-18W-41K]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-18W-27K-OC]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-18W-27K]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<item><![CDATA[SIT-LEDT8-18W-5K]]></item>
+		<description><![CDATA[]]></description>
+		<quantityonhand><![CDATA[]]></quantityonhand>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+</data>

@@ -1,0 +1,4797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[FEL - $13.00]]></name>
+		<description><![CDATA[Q1000/4CL/120V/G9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BTM - $17.50]]></name>
+		<description><![CDATA[Q500T6/4CL/2P]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BTP - $22.50]]></name>
+		<description><![CDATA[Q750T7/4CL/2P]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BVT - $25.00]]></name>
+		<description><![CDATA[Q1000T7/CL/MP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BVW - $45.00]]></name>
+		<description><![CDATA[Q2000T10/4CL/MP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CYX - $30.00]]></name>
+		<description><![CDATA[Q2000T9/4CL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DTA - $40.00]]></name>
+		<description><![CDATA[Q1500T8/4CL]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DWE - $19.50]]></name>
+		<description><![CDATA[Q650PAR36/1]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DXW - $13.75]]></name>
+		<description><![CDATA[Q1000T5/4CL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DYS/5 - $8.00]]></name>
+		<description><![CDATA[600W/125V/T6/Gz9.5]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EGF - $32.00]]></name>
+		<description><![CDATA[750W/120V/T5/P28s]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EGJ - $20.00]]></name>
+		<description><![CDATA[Q1000/4CL/P/120V/P28s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EGM - $38.00]]></name>
+		<description><![CDATA[Q1000CL/P]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EGR - $19.00]]></name>
+		<description><![CDATA[Q750T7/CL/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHC/EHB - $14.00]]></name>
+		<description><![CDATA[Q500/5CL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHF - $17.00]]></name>
+		<description><![CDATA[Q750/4CL/T5/G9.5/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHM - $3.50]]></name>
+		<description><![CDATA[Q300T3/CL/120V]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHR - $12.50]]></name>
+		<description><![CDATA[Q400T4/CL]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHZ - $2.50]]></name>
+		<description><![CDATA[Q300T3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EKB - $15.50]]></name>
+		<description><![CDATA[JCD120V420WC]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ETC - $10.00]]></name>
+		<description><![CDATA[Q150CL/DC]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EVR - $10.75]]></name>
+		<description><![CDATA[Q500CL/MC/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYC - $3.50]]></name>
+		<description><![CDATA[75W/12V/38degFL/MR16/Gu5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCB - $12.50]]></name>
+		<description><![CDATA[600W/120V/R7s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCM - $7.50]]></name>
+		<description><![CDATA[Q1000T3/4CL/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCX - $19.00]]></name>
+		<description><![CDATA[Q650Par36/7/120V/Ferrule/MFL]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FDN - $9.50]]></name>
+		<description><![CDATA[500W/120V/T2.5/R7s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FFN - $22.50]]></name>
+		<description><![CDATA[Q1000PAR64/1 VNSP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FFR - $22.50]]></name>
+		<description><![CDATA[Q1000PAR64/5 MFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FFT - $10.50]]></name>
+		<description><![CDATA[Q1000T3/1CL/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FKW - $17.00]]></name>
+		<description><![CDATA[300W/120V/T6/GY9.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FLK(HX600) - $18.00]]></name>
+		<description><![CDATA[Q575T6/4CL/115V/G9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FRK - $14.50]]></name>
+		<description><![CDATA[650W/120V/T6/Gy9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[GCA - $10.00]]></name>
+		<description><![CDATA[250W/120V/G5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[GLA - $21.50]]></name>
+		<description><![CDATA[575W/115V/T6/G9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[300PAR56/MFL - $12.00]]></name>
+		<description><![CDATA[300PAR56/MFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[300PAR56/WFL - $12.00]]></name>
+		<description><![CDATA[300PAR56/WFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[500PAR64/NSP - $22.50]]></name>
+		<description><![CDATA[500PAR64/NSP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[Q500PAR56/MFL - $26.00]]></name>
+		<description><![CDATA[Q500PAR56/MFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[Q500PAR56/WFL - $26.00]]></name>
+		<description><![CDATA[Q500PAR56/WFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FEY - $27.00]]></name>
+		<description><![CDATA[2000W/120V/T8/Rx7s]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FFM - $17.50]]></name>
+		<description><![CDATA[420W/120V/T4/R7s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL575/115V - $16.95]]></name>
+		<description><![CDATA[575W/115V/T6]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL575/120V - $16.95]]></name>
+		<description><![CDATA[575W/120V/T6]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL750/115V - $16.95]]></name>
+		<description><![CDATA[750W/115V/T6]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL750/120V - $16.95]]></name>
+		<description><![CDATA[750W/120V/T6]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EXN - $2.50]]></name>
+		<description><![CDATA[50W/12V/MR16/Gu5.3/38degFL]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FEY - $8.95]]></name>
+		<description><![CDATA[Osram FEY]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64535/EGW - $20.00]]></name>
+		<description><![CDATA[650W/120V/T8/GX6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DKZ - $39.50]]></name>
+		<description><![CDATA[Q1000W/PS52/CL/MOG/4]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FBX - $18.50]]></name>
+		<description><![CDATA[Q650/T4/R7s/120V]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FGT - $25.00]]></name>
+		<description><![CDATA[(Q1500T4/4 120V]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FAY - $29.00]]></name>
+		<description><![CDATA[Q650PAR36/3D/120V/Ferrule]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FDF - $18.00]]></name>
+		<description><![CDATA[Q500T3/4CL/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DPY - $140.00]]></name>
+		<description><![CDATA[Q5000T20/4CL/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL375/115V - $16.95]]></name>
+		<description><![CDATA[375W/115V/T6]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL550/77V - $16.95]]></name>
+		<description><![CDATA[550W/77V/T6]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI700/D4/75 - $165.00]]></name>
+		<description><![CDATA[700W/70V/D SharXS]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[GLG - $18.00]]></name>
+		<description><![CDATA[HP 375 GLG (54520)]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HSR400W/60 - $110.00]]></name>
+		<description><![CDATA[Osram Stage & Studio bulb]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BTL - $14.50]]></name>
+		<description><![CDATA[Q500T6/CL/P]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BTN - $16.00]]></name>
+		<description><![CDATA[Q750T7/CL/2P]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BTR - $16.50]]></name>
+		<description><![CDATA[Q1000T7/4CL/2P]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BVV - $25.00]]></name>
+		<description><![CDATA[Q1000T6/4CL/MP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CYV - $30.00]]></name>
+		<description><![CDATA[Q1000T7/4CL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DMX - $22.00]]></name>
+		<description><![CDATA[500T20P]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DTJ - $35.00]]></name>
+		<description><![CDATA[1500T20/39]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DWT - $43.00]]></name>
+		<description><![CDATA[Q1000T6/CL]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DYS/BHC/DYV - $7.00]]></name>
+		<description><![CDATA[600W/120V/T6/Gz9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EGE - $19.00]]></name>
+		<description><![CDATA[Q500CL/P/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EGG - $19.00]]></name>
+		<description><![CDATA[Q750CL/P/120V]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EGK - $21.00]]></name>
+		<description><![CDATA[1000W/120V/T6/P28s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EGN - $20.00]]></name>
+		<description><![CDATA[Q500T6/G22/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EGT - $18.00]]></name>
+		<description><![CDATA[1000W/120V/T7/G22]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHD - $16.00]]></name>
+		<description><![CDATA[Q500CL//120V/T4/G9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHG - $14.75]]></name>
+		<description><![CDATA[Q750CL/TP/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHP - $20.00]]></name>
+		<description><![CDATA[Q300T4/CL]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHT - $13.50]]></name>
+		<description><![CDATA[Q250CL/MC/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHJ (64655HLX) - $3.00]]></name>
+		<description><![CDATA[250W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EMD - $14.50]]></name>
+		<description><![CDATA[Q750T3/4-120V]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EVC/FGX/64657HLX - $4.00]]></name>
+		<description><![CDATA[250W/24V/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EXY - $9.00]]></name>
+		<description><![CDATA[250W/82V/T3.5/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EZK - $12.50]]></name>
+		<description><![CDATA[150W/120V/MR16/GY5.3]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCL - $3.00]]></name>
+		<description><![CDATA[Q500T3/CL]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCM/HIR - $18.50]]></name>
+		<description><![CDATA[Q650T3/4]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FDB - $14.00]]></name>
+		<description><![CDATA[Q1500T4/4CL/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FER - $18.50]]></name>
+		<description><![CDATA[Q1000T6/4CL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FFP - $22.50]]></name>
+		<description><![CDATA[Q1000PAR64/2 NSP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FFS - $22.50]]></name>
+		<description><![CDATA[Q1000PAR64/6 WFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FHM - $7.75]]></name>
+		<description><![CDATA[Q1000T3/4/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FLE - $17.00]]></name>
+		<description><![CDATA[360W/82V/T3.5/Gy5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FLK/LL (HX601) - $21.00]]></name>
+		<description><![CDATA[Q575T6]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FTK - $10.75]]></name>
+		<description><![CDATA[500W/120V/T6/Gy9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[GCC - $9.00]]></name>
+		<description><![CDATA[100W/12V/T3/G5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[GLC - $18.00]]></name>
+		<description><![CDATA[Q575T6/5CL]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[300PAR56/NSP - $12.00]]></name>
+		<description><![CDATA[300PAR56/NSP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[500PAR64/MFL - $22.50]]></name>
+		<description><![CDATA[500PAR64/MFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[500PAR64/WFL - $22.50]]></name>
+		<description><![CDATA[500PAR64/WFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[Q500PAR56/NSP - $26.00]]></name>
+		<description><![CDATA[Q500PAR56/NSP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FEV - $8.00]]></name>
+		<description><![CDATA[200T3Q/CL/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FFJ - $13.50]]></name>
+		<description><![CDATA[600W/120V/T4/R7s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FSH - $15.50]]></name>
+		<description><![CDATA[125W/120V/T3.5/G5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL575/115X - $16.95]]></name>
+		<description><![CDATA[575W/115V/T6 Long Life]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL575/120X - $16.95]]></name>
+		<description><![CDATA[575W/120V/T6 Long Life]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL750/115X - $16.95]]></name>
+		<description><![CDATA[750W/115V/T6 Long Life]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL750/120X - $16.95]]></name>
+		<description><![CDATA[750W/120V/T6 Long Life]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HSD250/78 - $75.00]]></name>
+		<description><![CDATA[Osram HSD Stage & Studio bulb]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64657HLX/EVC - $4.00]]></name>
+		<description><![CDATA[250W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HSR1200W/60 - $110.00]]></name>
+		<description><![CDATA[Osram HSR Stage/Studio bulb]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DKZ/DSE - $39.50]]></name>
+		<description><![CDATA[Q1000W/PS52/CL/MOG/4]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EJG - $12.50]]></name>
+		<description><![CDATA[750w/120v/T3/R7s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FDA - $19.50]]></name>
+		<description><![CDATA[Q400T4/4CL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FRG - $20.00]]></name>
+		<description><![CDATA[500T6/GY9.5/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EKD - $14.50]]></name>
+		<description><![CDATA[650W/120V/G6/GZ9.5]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHZ - $2.50]]></name>
+		<description><![CDATA[Q300T3/R7s/120v]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPL375/115X - $16.95]]></name>
+		<description><![CDATA[375w/115v/T6 Long Life]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HPR575/115VT5 - $19.75]]></name>
+		<description><![CDATA[575W/115V/T5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[GLD - $20.00]]></name>
+		<description><![CDATA[750w/115v/G9.5/300Hr/19K L]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HSR575/72 - $115.00]]></name>
+		<description><![CDATA[Osram HSR Stage & studio bulb]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Stage & Studio Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MLB-FSWB-JB - $40.00]]></name>
+		<description><![CDATA[12 Watt LED for Poultry Dim to Blue -Junction box mount]]></description>
+		<manufacturer><![CDATA[ Once Innovations]]></manufacturer>
+		<category><![CDATA[Livestock/Ag LED Lighting]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MLS-FSWR-JB - $40.00]]></name>
+		<description><![CDATA[14 Watt LED for Swine Confinements - Junction Box mount]]></description>
+		<manufacturer><![CDATA[ Once Innovations]]></manufacturer>
+		<category><![CDATA[Livestock/Ag LED Lighting]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MLB-FSWB-JB - $40.00]]></name>
+		<description><![CDATA[12 Watt LED for Poultry Dim to Red - Junction box mount]]></description>
+		<manufacturer><![CDATA[ Once Innovations]]></manufacturer>
+		<category><![CDATA[Livestock/Ag LED Lighting]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MLA-1 - $50.00]]></name>
+		<description><![CDATA[15 Watt Aquaculture LED Fixture - Junction box mount]]></description>
+		<manufacturer><![CDATA[ Once Innovations]]></manufacturer>
+		<category><![CDATA[Livestock/Ag LED Lighting]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MLS-FSWR-JJ - $40.00]]></name>
+		<description><![CDATA[14 Watt LED for Swine Confinements - Jelly Jar mount]]></description>
+		<manufacturer><![CDATA[ Once Innovations]]></manufacturer>
+		<category><![CDATA[Livestock/Ag LED Lighting]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MLB-FSWB-JJ - $40.00]]></name>
+		<description><![CDATA[12 Watt LED for Poultry Dim to Blue - Jelly Jar mount]]></description>
+		<manufacturer><![CDATA[ Once Innovations]]></manufacturer>
+		<category><![CDATA[Livestock/Ag LED Lighting]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MLA-15-HW - $50.00]]></name>
+		<description><![CDATA[15 Watt Aquaculture LED Fixture - Hard wire mount]]></description>
+		<manufacturer><![CDATA[ Once Innovations]]></manufacturer>
+		<category><![CDATA[Livestock/Ag LED Lighting]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MLB-FSWB-JJ - $40.00]]></name>
+		<description><![CDATA[12 Watt LED for Poultry Dim to Red - Jelly Jar mount]]></description>
+		<manufacturer><![CDATA[ Once Innovations]]></manufacturer>
+		<category><![CDATA[Livestock/Ag LED Lighting]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-150-HB - $350.00]]></name>
+		<description><![CDATA[150 watt high bay LED fixture]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-100-HB - $300.00]]></name>
+		<description><![CDATA[100 watt High Bay LED fixture]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-75-RT - $300.00]]></name>
+		<description><![CDATA[75 watt retrofit kit for MH/HPS fixtures]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-150-RT - $380.00]]></name>
+		<description><![CDATA[150 watt retrofit kit for MH/HPS fixtures]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-60-WP - $270.00]]></name>
+		<description><![CDATA[60 watt LED wall pack fixture]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-75-FL - $240.00]]></name>
+		<description><![CDATA[75 watt LED flood light fixture]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-200-HB - $420.00]]></name>
+		<description><![CDATA[200 watt LED High Bay fixture]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-30-RT - $200.00]]></name>
+		<description><![CDATA[30 Watt retrofit kit for MH/HPS fixtures]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-120-RT - $360.00]]></name>
+		<description><![CDATA[120 watt retrofit kit for MH/HPS fixtures]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-400-RT - $900.00]]></name>
+		<description><![CDATA[400 watt retrofit kit for MH/HPS fixtures]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-120-WP - $300.00]]></name>
+		<description><![CDATA[120 watt LED wall pack fixture]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-150-FL - $365.00]]></name>
+		<description><![CDATA[150 watt LED flood light fixture]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Fixtures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-LEDT8-12W-5K - $25.00]]></name>
+		<description><![CDATA[2 Foot 12 Watt T8 LED bulb -5K]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-LEDT8-18W-41K - $30.00]]></name>
+		<description><![CDATA[4 Foot 18 Watt T8 LED bulb - 41K]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-LEDT8-18W-27K - $30.00]]></name>
+		<description><![CDATA[4 Foot 18 Watt T8 LED bulb - 27K]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-LEDT8-14W-5K - $30.00]]></name>
+		<description><![CDATA[3 Foot 18 Watt T8 LED bulb - 5K]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-LEDT8 -18W-27K-OC - $35.00]]></name>
+		<description><![CDATA[4 Foot 18 Watt T8 LED bulb - 27K - w/ Occ Sensor]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SIT-LEDT8-18W-5K - $30.00]]></name>
+		<description><![CDATA[4 Foot 18 Watt T8 LED bulb - 5K]]></description>
+		<manufacturer><![CDATA[ Import]]></manufacturer>
+		<category><![CDATA[LED Retrofit Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BRH - $22.00]]></name>
+		<description><![CDATA[1000W/120V/T5/R7s]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BRN - $28.00]]></name>
+		<description><![CDATA[1200W/120V/T7/G17q]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BVE - $24.50]]></name>
+		<description><![CDATA[600W/120V/T6/2-pinPF]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CAL - $20.00]]></name>
+		<description><![CDATA[300W/120V/T10/G17q]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CAX-120 - $5.00]]></name>
+		<description><![CDATA[50W/120V/T8/Ba15d]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CAX Halogen - $15.00]]></name>
+		<description><![CDATA[50W/130V/Halogen]]></description>
+		<manufacturer><![CDATA[  Hybec]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CBX - $10.50]]></name>
+		<description><![CDATA[75W/115-125V]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CLS/CLG - $10.00]]></name>
+		<description><![CDATA[300W/120V/T8.5/Ba15s]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CXR/CXL - $15.50]]></name>
+		<description><![CDATA[50W/8V/T9.5/P30s/Reflectorized]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CZX/DAB - $22.00]]></name>
+		<description><![CDATA[500W/120V/T10/P28s]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DAY - $25.00]]></name>
+		<description><![CDATA[500W/120V/T10/G17q]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DCH/DJA - $29.00]]></name>
+		<description><![CDATA[150W/120V/G17q]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DDL - $9.25]]></name>
+		<description><![CDATA[150W/20V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DEK/DFW - $22.00]]></name>
+		<description><![CDATA[500W/120V/T12/4pin]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DFN/DFC - $60.00]]></name>
+		<description><![CDATA[150W/120V/T12/G17q]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DKN - $14.00]]></name>
+		<description><![CDATA[35W/6V/T12/4pin]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DNE - $14.50]]></name>
+		<description><![CDATA[150W/120V/MR16/G7.9]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DNS/FMC - Use EGE - $35.00]]></name>
+		<description><![CDATA[500W/120V/T12/P28s]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DRB - $20.00]]></name>
+		<description><![CDATA[1000W/120V/T20/P28s]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DRL - $15.00]]></name>
+		<description><![CDATA[300W/115-120V/T20/P28s]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DVY - $14.00]]></name>
+		<description><![CDATA[650W/120V/G6/G5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DYS - $7.00]]></name>
+		<description><![CDATA[600W/120V/T6/Gz9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EAD - $9.00]]></name>
+		<description><![CDATA[60W/120V/T6.5/Ba15d]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EBV - $2.75]]></name>
+		<description><![CDATA[#2/500W/120V/PS25/E26/Photoflood]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EFM/64607 - $15.00]]></name>
+		<description><![CDATA[50W/8V/MR16/Gz6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EFR/64634HLX - $9.50]]></name>
+		<description><![CDATA[150W/15V/MR16/Gz6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHA - $15.00]]></name>
+		<description><![CDATA[500W/120V/T6/Gy9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EJV - $14.00]]></name>
+		<description><![CDATA[150W/21V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ELC/64653HLX - $9.00]]></name>
+		<description><![CDATA[250W/24V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ENH - $10.50]]></name>
+		<description><![CDATA[250W/120V/MR16/Gy5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EKL - $11.00]]></name>
+		<description><![CDATA[150W/21V/T3/Gy9.5]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ELC-E - $17.00]]></name>
+		<description><![CDATA[250W/24V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ENX/5 - $8.50]]></name>
+		<description><![CDATA[360W/86V/MR16/Gy5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESB/64225HLX - $4.00]]></name>
+		<description><![CDATA[20W/6V/T3.5/G4]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESM - $15.00]]></name>
+		<description><![CDATA[250W/120V/T4/E11]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESP - $10.00]]></name>
+		<description><![CDATA[150W/120V/T4/Ba15d]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESS - $9.00]]></name>
+		<description><![CDATA[250W/120V/T4/Ba15d]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EVA/64623HLX - $6.00]]></name>
+		<description><![CDATA[250W/24V/T4/Gy6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EVD 64663 HLX - $8.50]]></name>
+		<description><![CDATA[400W/36V/T6/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EVW - $10.00]]></name>
+		<description><![CDATA[250W/82V/T3.5/Gy5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EXR/5 - $12.00]]></name>
+		<description><![CDATA[300W/86V/MR13/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYB/5 - $8.00]]></name>
+		<description><![CDATA[360W/86V/T3.5/G5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYH/FKT - $12.00]]></name>
+		<description><![CDATA[250/120V/T6/G5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EZK - $12.50]]></name>
+		<description><![CDATA[150W/120V/MR16/GY5.3]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FAD - $9.75]]></name>
+		<description><![CDATA[Q650T4/4CL/R7s]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCL - $3.00]]></name>
+		<description><![CDATA[Q500T3/CL]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCS/HLX64640 - $3.00]]></name>
+		<description><![CDATA[150W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FDV/64642HLX - $12.00]]></name>
+		<description><![CDATA[150W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FEY - $27.00]]></name>
+		<description><![CDATA[2000W/120V/T8/Rx7s]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FFM - $17.50]]></name>
+		<description><![CDATA[420W/120V/T4/R7s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FHS/5 - $9.50]]></name>
+		<description><![CDATA[300W/86V/MR13/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FLW - $11.00]]></name>
+		<description><![CDATA[300W/24V/T4/Gy6.35]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FNT/64656PT HLX - $9.50]]></name>
+		<description><![CDATA[275W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FXL - $8.75]]></name>
+		<description><![CDATA[410W/82V/MR16/Gy5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EZT - DISCONTINUED - $0.00]]></name>
+		<description><![CDATA[Marc 350/16T (350W/45V/T3.5/2pin plug)]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BAH - $2.25]]></name>
+		<description><![CDATA[300W/115V/A21/E26/IF]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64250HLX/ESB - $4.00]]></name>
+		<description><![CDATA[20W/6V/T3.5/G4]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64657HLX/EVC - $4.00]]></name>
+		<description><![CDATA[250W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64607/EFM - $15.00]]></name>
+		<description><![CDATA[50W/8V/MR16/Gz6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64615HLX/EFN - $15.50]]></name>
+		<description><![CDATA[75W/12V/MR16/Gz6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64655HLX/EHJ - $3.00]]></name>
+		<description><![CDATA[250W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64642HLX/FDV - $12.00]]></name>
+		<description><![CDATA[150W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64663HLX/EVD - $8.50]]></name>
+		<description><![CDATA[400W/36V/T6/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64640HLX/FCS - $3.00]]></name>
+		<description><![CDATA[150W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DFK - $6.00]]></name>
+		<description><![CDATA[1000W/120V/T12/P461]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ENH - Apollo - $9.50]]></name>
+		<description><![CDATA[250W/120V/MR16/Gy5.3]]></description>
+		<manufacturer><![CDATA[  Import]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FHS Apollo - $5.00]]></name>
+		<description><![CDATA[300W/82V/MR16/GX5.3]]></description>
+		<manufacturer><![CDATA[  Import]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CWA - $17.50]]></name>
+		<description><![CDATA[750W/120V/T12/G17q]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BVK - $2.00]]></name>
+		<description><![CDATA[6.5A/5V/T5/P15s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BCK - $20.00]]></name>
+		<description><![CDATA[500W/120V/T6/G17q]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DFD - $15.00]]></name>
+		<description><![CDATA[1000W/21V/T12/P28s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DLR - $5.00]]></name>
+		<description><![CDATA[250W/21V/T14/G17q]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64664HLX - $17.00]]></name>
+		<description><![CDATA[400W/36W/T6]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ELC/5 - $9.00]]></name>
+		<description><![CDATA[250W/24V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BRL (64610/HLX) - $3.00]]></name>
+		<description><![CDATA[50W/12V/T3/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BVA - $27.00]]></name>
+		<description><![CDATA[900W/120V/Gy9.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BXE - $6.00]]></name>
+		<description><![CDATA[7.5A/10V/T8/Ba15s]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CAR - $15.00]]></name>
+		<description><![CDATA[150W/120V/T10/G17q]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CAX-130 - $5.00]]></name>
+		<description><![CDATA[50W/130V/T8/Ba15d]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CBA - $25.00]]></name>
+		<description><![CDATA[500W/120V/T6/G17q]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CDD - $8.75]]></name>
+		<description><![CDATA[100W/120V/T8/Ba15s]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CLX/CMB - $9.00]]></name>
+		<description><![CDATA[300W/120V/BA15d]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CZA/CZB - $20.00]]></name>
+		<description><![CDATA[500W/120V/T10/G17q]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DAT - $20.00]]></name>
+		<description><![CDATA[400W/120V/T10/G17Q]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CRL/CRX - $11.00]]></name>
+		<description><![CDATA[300W/32-34V/T10/E26]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DDB - $25.00]]></name>
+		<description><![CDATA[750W/120V/P28s]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DDM - $13.00]]></name>
+		<description><![CDATA[80W/19V/T3.15/Gx5.3]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DFE - $22.00]]></name>
+		<description><![CDATA[80W/30V/T12/Gx17q]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DKM - $24.00]]></name>
+		<description><![CDATA[250W/21.5V/T14/G17q]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DKP - $14.00]]></name>
+		<description><![CDATA[250W/21.5V/T14/4pin]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DNF - $13.00]]></name>
+		<description><![CDATA[150W/21V/MR16/Gx7.9]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DRA - $11.00]]></name>
+		<description><![CDATA[300W/120V/T5/G6.35]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DRC - $19.00]]></name>
+		<description><![CDATA[1000W/120V/T20/P28s]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DRS - $18.50]]></name>
+		<description><![CDATA[1000W/120V/T20/P28s]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DYP - $17.00]]></name>
+		<description><![CDATA[600W/120V/G7/2button]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DYS/5 - $8.00]]></name>
+		<description><![CDATA[600W/125V/G7/Gz9.5]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EAJ - $9.50]]></name>
+		<description><![CDATA[35W/12V/T6.5/Ba15d]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EFN/64615HLX - $11.00]]></name>
+		<description><![CDATA[75W/12V/MR16/Gz6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EFP/64627HLX - $9.50]]></name>
+		<description><![CDATA[100W/12V/MR16/Gz6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EGW/64535 - $20.00]]></name>
+		<description><![CDATA[650W/120V/T8/GX6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHJ/64655HLX - $3.00]]></name>
+		<description><![CDATA[250W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EKE - $9.00]]></name>
+		<description><![CDATA[150W/21V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ELH - $8.50]]></name>
+		<description><![CDATA[300W/120V/MR16/Gy5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EKG - $13.00]]></name>
+		<description><![CDATA[80W/19V/MR16/2pin]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ELB - $12.75]]></name>
+		<description><![CDATA[80W/30V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ELH/5 - $9.00]]></name>
+		<description><![CDATA[300W/125V/MR16/Gy5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESA/FHD 64225 - $9.00]]></name>
+		<description><![CDATA[10W/6V/T3/G4]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESJ - $16.00]]></name>
+		<description><![CDATA[85W/82V/MR16/Gy5.3]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESN - $14.00]]></name>
+		<description><![CDATA[100W/120V/T4/E11]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESR - $10.50]]></name>
+		<description><![CDATA[100W/120V/T4/Ba15d]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESX - $3.50]]></name>
+		<description><![CDATA[20W/12V/MR16/Gu5.3/NSP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EVC/FGX 64657HLX - $4.00]]></name>
+		<description><![CDATA[250W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EVR - $10.75]]></name>
+		<description><![CDATA[Q500CL/MC/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EXR - $8.00]]></name>
+		<description><![CDATA[300W/82V/T3.5/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYB - $7.00]]></name>
+		<description><![CDATA[360W/82V/T3.5/G5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYF - $3.50]]></name>
+		<description><![CDATA[75W/12V/MR16/12degSP/Gu5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYJ - $3.50]]></name>
+		<description><![CDATA[75W/12V/MR16/24degMFL/Gu5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EZM - DISCONTINUED - $0.00]]></name>
+		<description><![CDATA[EZM Marc 300/16]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FAL - $10.00]]></name>
+		<description><![CDATA[420W/120V/R7s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCR/64625HLX - $3.25]]></name>
+		<description><![CDATA[100W/12V/T3.5/Gy6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCZ - $6.50]]></name>
+		<description><![CDATA[Q500T3/120V]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FEV - $8.00]]></name>
+		<description><![CDATA[200W/120V/T4/Ba15d]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FFJ - $13.50]]></name>
+		<description><![CDATA[600W/120V/T4/R7s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FHS - $8.75]]></name>
+		<description><![CDATA[300W/82V/MR13/Gx5.3]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FLT - $10.50]]></name>
+		<description><![CDATA[25W/13.8V/MR11/Gz4]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FNS/64512 - $17.00]]></name>
+		<description><![CDATA[300W/120V/T5/Gx6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FSH - $15.50]]></name>
+		<description><![CDATA[125W/120V/T3.5/G5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EZG - $96.00]]></name>
+		<description><![CDATA[Gemini 300 (300W/35V/T3.5/2 pin plug)]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BAB - $3.50]]></name>
+		<description><![CDATA[20W/12V/MR16/GU5.3/38Deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BAK - $5.25]]></name>
+		<description><![CDATA[75A/4V/T5/P30s]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64656PT-HLX/FNT - $9.80]]></name>
+		<description><![CDATA[275W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64610HLX/BRL - $3.00]]></name>
+		<description><![CDATA[50W/12V/T3/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64627HLX/EFP - $9.50]]></name>
+		<description><![CDATA[100W/12V/MR16/Gz6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64634HLX/EFR - $9.50]]></name>
+		<description><![CDATA[150W/15V/MR16/Gz6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64512/FNS - $17.00]]></name>
+		<description><![CDATA[300W/120V/T5/Gx6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64623HLX/EVA - $6.00]]></name>
+		<description><![CDATA[100W/12V/T4/Gy6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64625HLX/FCR - $3.25]]></name>
+		<description><![CDATA[100W/12V/T3.5/Gy6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ENZ - $11.50]]></name>
+		<description><![CDATA[50W/30V/MR16/GX3.5]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FHS Apollo - $5.00]]></name>
+		<description><![CDATA[300W/82V/MR13/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Apollo]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CAL/CXP - $5.00]]></name>
+		<description><![CDATA[300W/120V/T10/G17q]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[Bulbs - $0.00]]></name>
+		<description><![CDATA[Excess/Old Bulbs? We'll Buy 'Em]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BTD - $2.00]]></name>
+		<description><![CDATA[.20A/7V/T5/DCP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CTT - $20.00]]></name>
+		<description><![CDATA[1000W/120V/T12/G17q]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DCF - $3.00]]></name>
+		<description><![CDATA[150W/21V/T12/G17q]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BAK - $5.25]]></name>
+		<description><![CDATA[75A/4V/T5/P30s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64535/EGW - $20.00]]></name>
+		<description><![CDATA[650W/120V/T8/GX6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FEY - $8.95]]></name>
+		<description><![CDATA[Osram FEY]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Old Film & Slide Projector Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HMI575W/GS - $98.00]]></name>
+		<description><![CDATA[HMI575W/GS]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI2500W/SE - $450.00]]></name>
+		<description><![CDATA[2500W/115V/G22+Cable/Hot Restart]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI400W/SE/55V - $195.00]]></name>
+		<description><![CDATA[400W/55V/FaX1.5 Hot Restart]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI150W - $95.00]]></name>
+		<description><![CDATA[150W/90V/Gy9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI600W/SE - $185.00]]></name>
+		<description><![CDATA[600W/95V/FaX1.5 Hot Restart]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HMI1200W/GS - $115.00]]></name>
+		<description><![CDATA[1200W/100V/SFc15.5/Hot Restart]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HMI1200W/SE - $185.00]]></name>
+		<description><![CDATA[1200W/100V/G38/Hot Restart]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSD200 - $95.00]]></name>
+		<description><![CDATA[200W/70V/Gy9.5/6000K/80CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSD575 - $180.00]]></name>
+		<description><![CDATA[575W/95V/Gx9.5/6000K/75CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR400 - $140.00]]></name>
+		<description><![CDATA[400W/70V/Gx9.5/5900K/92CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR575/2 - $115.00]]></name>
+		<description><![CDATA[575W/95V/Gx9.5/7200K/80CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR700/2 - $140.00]]></name>
+		<description><![CDATA[700W/72V/G22-28x42/7200K/80CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR1200 - $140.00]]></name>
+		<description><![CDATA[1200W/100V/G22-30x53/5900K/95CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR1200/HR - $170.00]]></name>
+		<description><![CDATA[1200W/100V/G38/6000K/95CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[XBO100W OFR - $230.00]]></name>
+		<description><![CDATA[100W/14V Xenon Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[XBO1600W/HS OFR - $750.00]]></name>
+		<description><![CDATA[1550W/23V Xenon Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[XBO2000W/HS OFR - $625.00]]></name>
+		<description><![CDATA[2000W25V Xenon Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[XBO4000W/HS OFR - $1,185.00]]></name>
+		<description><![CDATA[4000W/28V Xenon Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HBO200W/4 - $240.00]]></name>
+		<description><![CDATA[200W/61V Mercury Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HBO100W/2 - $110.00]]></name>
+		<description><![CDATA[100W/20V Mercury Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HBO50W L2 - $110.00]]></name>
+		<description><![CDATA[50W/42V Mercury Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI700/D4/75 - $165.00]]></name>
+		<description><![CDATA[700W/70V/D SharXS]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI1200/D7/60XS - $140.00]]></name>
+		<description><![CDATA[HTI double ended metal halide (54268)]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR575 SA/2 DE - $175.00]]></name>
+		<description><![CDATA[575W/94V/SFc-11/7500K/75CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI152W - $50.00]]></name>
+		<description><![CDATA[150W/95V/Gy9.5]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI300W/DX - $135.00]]></name>
+		<description><![CDATA[300W/100V/SFc10-4/Hot Restart]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI403W/24/55V - $295.00]]></name>
+		<description><![CDATA[THIS PRODUCT IS DELISTED]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HTI400W/24/55V - $250.00]]></name>
+		<description><![CDATA[400W/55V Hot Restart]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HMI575W/SE - $135.00]]></name>
+		<description><![CDATA[575W/75V/G22/6000K/Hot Restart]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HMI1200W/S - $165.00]]></name>
+		<description><![CDATA[1200W/100V/SFc10-4/Hot Restart]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HMI4000W - $325.00]]></name>
+		<description><![CDATA[4000W/200V/SFa21/Hot Restart]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSD250/2 - $110.00]]></name>
+		<description><![CDATA[250W/90V/Gy9.5/8500K/65CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSD700 - $220.00]]></name>
+		<description><![CDATA[700W/72V/G22/6000K/75CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR400/HR - $140.00]]></name>
+		<description><![CDATA[400W/70V/Gzz9.5/6000K/95CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR575/HR - $130.00]]></name>
+		<description><![CDATA[575W/95V/G22/6000K/95CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR700/SA - $190.00]]></name>
+		<description><![CDATA[700W/72V/Gy9.5/5600K/80CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR1200/2 - $140.00]]></name>
+		<description><![CDATA[1200W/90V/G22-30x53/7200K/85CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR1200/SA - $225.00]]></name>
+		<description><![CDATA[1200W/100V/Gy22/5600K/80CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[XBO1000W/HS OFR - $535.00]]></name>
+		<description><![CDATA[1000W/19V Xenon Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[XBO2000W/H OFR - $475.00]]></name>
+		<description><![CDATA[2000W/28V Xenon Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[XBO2500W/HS OFR - $825.00]]></name>
+		<description><![CDATA[2500W/26V Xenon Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[XBO7000W/HS OFR - $1,400.00]]></name>
+		<description><![CDATA[7000W/42V Xenon Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HBO103W/2 - $110.00]]></name>
+		<description><![CDATA[100W/23V Mercury Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HBO50W AC L1 - $110.00]]></name>
+		<description><![CDATA[50W/37V Mercury Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[XBO75W/2 OFR - $175.00]]></name>
+		<description><![CDATA[75W/14V Xenon Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HMI1200W/DX5 - $115.00]]></name>
+		<description><![CDATA[HMI double ended metal halide (55139)]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MSR400SA/DE Gold - $150.00]]></name>
+		<description><![CDATA[400W/SFc10-4/7500K/70CRI]]></description>
+		<manufacturer><![CDATA[  Philips]]></manufacturer>
+		<category><![CDATA[Specialty Discharge Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[XBO75W/2 OFR - $175.00]]></name>
+		<description><![CDATA[75W/14V Xenon Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HBO50W AC L2 - $110.00]]></name>
+		<description><![CDATA[50W/42V Mercury Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HBO100W/2 - $110.00]]></name>
+		<description><![CDATA[100W/20V Mercury Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BLC - $4.00]]></name>
+		<description><![CDATA[30W/120V Incandescent]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EKE - $9.00]]></name>
+		<description><![CDATA[150W/21V/MR16]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCR - $3.25]]></name>
+		<description><![CDATA[100W/12V/64625HLX]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESA/FHD - $0.00]]></name>
+		<description><![CDATA[10W/6V/T3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[JC6V30W - $7.50]]></name>
+		<description><![CDATA[30W/6V/G4]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HBO50W AC L1 - $110.00]]></name>
+		<description><![CDATA[50W/37V Mercury Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HBO50W/3 - $100.00]]></name>
+		<description><![CDATA[50W/23V Mercury Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[HBO103W/2 - $110.00]]></name>
+		<description><![CDATA[100W/23V Mercury Short Arc]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BRL - $3.00]]></name>
+		<description><![CDATA[50W/12V - 64610HLX]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EJA - $9.50]]></name>
+		<description><![CDATA[150W/21V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EVA - $6.50]]></name>
+		<description><![CDATA[100W/12V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1460X - $6.50]]></name>
+		<description><![CDATA[2.75A/6.5V/S8/DCPrefocus]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CXE 300 - $265.00]]></name>
+		<description><![CDATA[300 watt Ceramic Xenon Incandescent]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Medical/Microscope]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU35/MED - $12.00]]></name>
+		<description><![CDATA[35W/52V/ED17/E26/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU50 - $12.00]]></name>
+		<description><![CDATA[50W/52V/ED23.5/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU50/MED - $10.50]]></name>
+		<description><![CDATA[50W/52V/ED17/E26/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU70 - $12.00]]></name>
+		<description><![CDATA[70W/52V/ED23.5/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU70/MED - $12.00]]></name>
+		<description><![CDATA[70W/52V/ED17/E26/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU100 - $11.00]]></name>
+		<description><![CDATA[100W/55V/ED23.5/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU100/MED - $10.00]]></name>
+		<description><![CDATA[100W/55V/ED17/E26/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU150/55/MED - $10.00]]></name>
+		<description><![CDATA[150W/55V/ED17/E26/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU150/55 - $11.00]]></name>
+		<description><![CDATA[150W/55V/ED23/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU150/100 - $11.00]]></name>
+		<description><![CDATA[150W/100V/ED28/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU200 - $17.00]]></name>
+		<description><![CDATA[200W/100V/ED18/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU250/D - $14.00]]></name>
+		<description><![CDATA[250W/100V/ED28/E39/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU400 - $10.00]]></name>
+		<description><![CDATA[400W/100V/ED18/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU600 - $25.00]]></name>
+		<description><![CDATA[600W/100Vor250V/T14.5/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE70/TD/UVS/3K - $19.50]]></name>
+		<description><![CDATA[70W/T6/RSC/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE150/TD/UVS/3K - $19.50]]></name>
+		<description><![CDATA[150W/T7/RSC/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE150/TD/UVS/6K - $19.50]]></name>
+		<description><![CDATA[150W/T7/RSC/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE250/TD/3K - $27.50]]></name>
+		<description><![CDATA[250W/T8/FC2]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE250/TD/3K/RSC - $27.50]]></name>
+		<description><![CDATA[250W/T8/RSC]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE400/TD/3K - $40.00]]></name>
+		<description><![CDATA[400W/T9.5/FC2]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-SE70/UVS/3K - $40.00]]></name>
+		<description><![CDATA[70W/T7/G12/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-SE150/UVS/3K - $40.00]]></name>
+		<description><![CDATA[150W/T7/G12/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-SE150/UVS/4K - $40.00]]></name>
+		<description><![CDATA[150W/T7/G12/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[H38JA-100/DX - $11.00]]></name>
+		<description><![CDATA[100W/ED23.5/E39/white]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[H39KC-175/DX - $11.00]]></name>
+		<description><![CDATA[175W/ED28/E39/white]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[H37KC-250/DX - $11.00]]></name>
+		<description><![CDATA[250W/ED28/E39/white]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH50/U/MED - $21.00]]></name>
+		<description><![CDATA[50W/BD17/E26/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH70/U/MED - $21.00]]></name>
+		<description><![CDATA[70W/BD17/E26/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH100/U/MED - $21.00]]></name>
+		<description><![CDATA[100W/BD17/E26/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH150/U/MED - $21.00]]></name>
+		<description><![CDATA[150W/BD17/E26/coated]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH175/C/U/MED - $21.00]]></name>
+		<description><![CDATA[175W/BD17/E26/coated]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH175/U - $18.00]]></name>
+		<description><![CDATA[175W/B28/E39/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH250/C/U - $18.00]]></name>
+		<description><![CDATA[250W/B28/E39/coated]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH1000/U - $28.00]]></name>
+		<description><![CDATA[1000W/BT56/E39/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH1500/U - $28.00]]></name>
+		<description><![CDATA[1500W/BT56/E39/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[H33GL-400DX - $10.25]]></name>
+		<description><![CDATA[400W/ED37/E39/white]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[S250E28/DX/M - $19.50]]></name>
+		<description><![CDATA[250W/ED28/E26/white]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU35/D/MED - $16.00]]></name>
+		<description><![CDATA[35W/52V/ED17/E26/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU50/D - $14.00]]></name>
+		<description><![CDATA[50W/52V/ED23.5/E39/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU50/D/MED - $12.00]]></name>
+		<description><![CDATA[50W/52V/ED17/E26/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU70/D - $14.00]]></name>
+		<description><![CDATA[70W/52V/ED23.5/E39/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU70/D/MED - $16.00]]></name>
+		<description><![CDATA[70W/52V/ED17/E26/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU100/D - $14.00]]></name>
+		<description><![CDATA[100W/55V/ED23.5/E39/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU100/D/MED - $11.00]]></name>
+		<description><![CDATA[100W/55V/ED17/E26/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU150/55/D/MED - $11.00]]></name>
+		<description><![CDATA[150W/55V/ED17/E26/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU150/55/D - $14.00]]></name>
+		<description><![CDATA[150W/55V/ED23.5/E39/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU150/100/D - $14.00]]></name>
+		<description><![CDATA[150W/100V/ED28/E39/Diffused]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU250 - $10.00]]></name>
+		<description><![CDATA[250W/100V/ED18/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU310 - $19.00]]></name>
+		<description><![CDATA[310W/100V/ED18/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU400/D - $14.00]]></name>
+		<description><![CDATA[400W/100V/ED28/E39/Diffussed]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[LU1000 - $25.00]]></name>
+		<description><![CDATA[1000W/250V/T21/E39/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE70/TD/UVS/4K - $19.50]]></name>
+		<description><![CDATA[70W/T6/RSC/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE150/TD/UVS/4K - $19.50]]></name>
+		<description><![CDATA[150W/T7/RSC/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE150/TD/UVS/10K - $19.50]]></name>
+		<description><![CDATA[150W/T7/RSC/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE250/TD/4K - $27.50]]></name>
+		<description><![CDATA[250W/T8/FC2]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE250/TD/4K/RSC - $27.50]]></name>
+		<description><![CDATA[250W/T8/RSC]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-DE400/TD/4K - $40.00]]></name>
+		<description><![CDATA[400W/T9.5/FC2]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-SE70/UVS/4K - $40.00]]></name>
+		<description><![CDATA[70W/T7/G12/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH-SE150/UVS/3K - $40.00]]></name>
+		<description><![CDATA[150W/T7/G12/UVshielded]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[H46DL-40/50/DX - $11.00]]></name>
+		<description><![CDATA[40-50W/ED17/E26/white]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[H38MP-100/DX - $14.00]]></name>
+		<description><![CDATA[100W/A23/E26/white]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[H39KB-175 - $11.00]]></name>
+		<description><![CDATA[175W/ED28/E39/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH50/C/U/MED - $21.00]]></name>
+		<description><![CDATA[50W/BD17/E26/coated]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH70/C/U/MED - $21.00]]></name>
+		<description><![CDATA[70W/BD17/E26/coated]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH100/C/U/MED - $21.00]]></name>
+		<description><![CDATA[100W/BD17/E26/coated]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH150/C/U/MED - $21.00]]></name>
+		<description><![CDATA[150W/BD17/E26/coated]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH150/U/MED - $21.00]]></name>
+		<description><![CDATA[150W/BD17/E26/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH50/U/MED - $21.00]]></name>
+		<description><![CDATA[50W/BD17/E26/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH175/C/U - $18.00]]></name>
+		<description><![CDATA[175W/B28/E39/coated]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH400/U - $18.00]]></name>
+		<description><![CDATA[400W/B37/E39/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MH1000/C/U - $28.00]]></name>
+		<description><![CDATA[1000W/BT56/E39/coated]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[H37KB-250 - $10.25]]></name>
+		<description><![CDATA[250W/ED28/E39/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[H33CD-400 - $10.25]]></name>
+		<description><![CDATA[400W/ED37/E39/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[S250E28/DX - $19.50]]></name>
+		<description><![CDATA[250W/ED28/E39/white]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[HID]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64260 - $16.00]]></name>
+		<description><![CDATA[64260 Slit Lamp]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CAX/130V - $5.00]]></name>
+		<description><![CDATA[50W/130V/T8/Ba15d]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CAX/120V - $5.00]]></name>
+		<description><![CDATA[50W/120V/T8/Ba15d]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CAX/130V Halogen Hybec - $15.00]]></name>
+		<description><![CDATA[50W/130V/T8/Ba15d]]></description>
+		<manufacturer><![CDATA[  Hybec]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64610 HLX/BRL - $3.00]]></name>
+		<description><![CDATA[50W/12V/T3/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BT53Z (19/112) - $14.50]]></name>
+		<description><![CDATA[25W/6V/Ba20d]]></description>
+		<manufacturer><![CDATA[  Dr. Fischer]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CDD - $9.00]]></name>
+		<description><![CDATA[100W/120V/T8/Ba15s]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ELH - $8.50]]></name>
+		<description><![CDATA[300W/120V/MR16/Gy5.3]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64251HLX - $20.00]]></name>
+		<description><![CDATA[20W/6V/T3/Pg22]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15S11/102/IF - $2.00]]></name>
+		<description><![CDATA[15W/120V/S11/E26/IF]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25T8/SCP/6 - $15.50]]></name>
+		<description><![CDATA[25W/6V/P15S]]></description>
+		<manufacturer><![CDATA[  Import]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[11143 - $7.00]]></name>
+		<description><![CDATA[20W/6V/T2.5/G4]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[41328 - $17.00]]></name>
+		<description><![CDATA[4.5A/6V/S11/E14w/SpecFlange]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[41336 - $10.00]]></name>
+		<description><![CDATA[1.5W/3V/T2.5]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[41306 - $4.75]]></name>
+		<description><![CDATA[30W/6V/T8/Ba15d]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1493 - $3.85]]></name>
+		<description><![CDATA[18W/6.5V/S8/Ba15d]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1096 - $17.00]]></name>
+		<description><![CDATA[4.5A/6V/S8/DC Pf]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25S11/5C - $4.00]]></name>
+		<description><![CDATA[25W/120V/S11/E12/frost]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EFP/64627HLX - $9.50]]></name>
+		<description><![CDATA[100W/12V/MR16/Gz6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EHJ/64655HLX - $3.00]]></name>
+		<description><![CDATA[250W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EJA - $9.50]]></name>
+		<description><![CDATA[150W/21V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EKE - $9.00]]></name>
+		<description><![CDATA[150W/21V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ENX - $7.50]]></name>
+		<description><![CDATA[360W/82V/MR16/Gy5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64250HLX/ESB - $4.00]]></name>
+		<description><![CDATA[20W/6V/T3.5/G4]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64623HLX/EVA - $6.00]]></name>
+		<description><![CDATA[100W/12V/T4/Gy6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64625HLX/FCR - $3.25]]></name>
+		<description><![CDATA[100W/12V/T3.5/Gy6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FHE/M34 - $3.95]]></name>
+		<description><![CDATA[FHE/M-34 GE]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1460 - $7.50]]></name>
+		<description><![CDATA[18W/6.5V/P30d/S8]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BAB - $3.50]]></name>
+		<description><![CDATA[20W/12V/MR16/GU5.3/38Deg]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CAX/130V HP - $6.50]]></name>
+		<description><![CDATA[50W/130V/T8/Ba15d/2900K]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BRL/64610 HLX - $3.00]]></name>
+		<description><![CDATA[50W/12V/T3/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[19/112 (BT53Z) - $14.50]]></name>
+		<description><![CDATA[25W/6V/Ba20d]]></description>
+		<manufacturer><![CDATA[  Import]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CBX/CBS - $12.00]]></name>
+		<description><![CDATA[75W/120V/T8/Ba15d]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DDL - $9.25]]></name>
+		<description><![CDATA[150W/20V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FHE/M34 - $3.95]]></name>
+		<description><![CDATA[20W/6V/G4]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15S11/14 - $4.75]]></name>
+		<description><![CDATA[15W/120V/S11/E12/clear]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25S11/2C - $4.00]]></name>
+		<description><![CDATA[25W/120V/S11/E12]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25S11N/IF - $2.50]]></name>
+		<description><![CDATA[25W/120V/S11/E17/IF]]></description>
+		<manufacturer><![CDATA[  Import]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[41340 - $10.50]]></name>
+		<description><![CDATA[4.5A/6V/S11/E14w/SpecFlange]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[41332 - $17.00]]></name>
+		<description><![CDATA[35W/7V/S8/DCprefocus]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[41358 - $81.25]]></name>
+		<description><![CDATA[4.2A/12V/T3.25/E14w/specFlng]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[41308 - $9.00]]></name>
+		<description><![CDATA[15W/6V/T6/DC pref w/triangle flange]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1468 - $14.50]]></name>
+		<description><![CDATA[4.5A/6V/S8/PG22]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15S11/87 - $3.50]]></name>
+		<description><![CDATA[15W/120V/S11/E17/clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[DNF - $13.00]]></name>
+		<description><![CDATA[150W/21V/MR16/Gx7.9]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64627 HLX/EFP - $9.50]]></name>
+		<description><![CDATA[100W/12V/MR16/Gz6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64655HLX/EHJ - $3.00]]></name>
+		<description><![CDATA[250W/24V/T4/G6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EJV - $14.00]]></name>
+		<description><![CDATA[150W/21V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ELC - $9.00]]></name>
+		<description><![CDATA[250W/24V/MR16/Gx5.3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESB/64250HLX - $4.00]]></name>
+		<description><![CDATA[20W/6V/T3.5/G4]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EVA/64623HLX - $6.00]]></name>
+		<description><![CDATA[100W/12V/T4/Gy6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCR/64625HLX - $3.25]]></name>
+		<description><![CDATA[100W/12V/T3.5/Gy6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1507 - $5.18]]></name>
+		<description><![CDATA[3A/12.5V/RP11/SCprefocus]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Ophthalmic]]></category>
+	</node>
+	<node>
+		<name><![CDATA[300PAR56/MFL - $12.00]]></name>
+		<description><![CDATA[300PAR56/MFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[300PAR56/NSP - $12.00]]></name>
+		<description><![CDATA[300PAR56/NSP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[6S6/120V - $0.46]]></name>
+		<description><![CDATA[6W/120V/S6/E12]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[6S6/155V - $0.46]]></name>
+		<description><![CDATA[6W/155V/S6/E12]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[7C7/CL/130V - $0.25]]></name>
+		<description><![CDATA[7W/130V/C7/E12]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[7-1/2 S11/120V/COLORS - $1.80]]></name>
+		<description><![CDATA[7-1/2W 120V/S11/E26]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[10S6/120V - $1.30]]></name>
+		<description><![CDATA[10W/120V/S6/E12/CL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15A/W - $1.25]]></name>
+		<description><![CDATA[15W/120V/A15/E26]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15S11/13 - $2.30]]></name>
+		<description><![CDATA[15W/120V/S11/E12]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15S11/102/CL - $2.35]]></name>
+		<description><![CDATA[15W/120V/S11/E26/Clear]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15T6 - $2.75]]></name>
+		<description><![CDATA[15W/120V/T6/E12/Clear]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[20T6.5/IF - $4.40]]></name>
+		<description><![CDATA[20W/120V/T6.5/E17/Frost]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[300PAR56/WFL - $12.00]]></name>
+		<description><![CDATA[300PAR56/WFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[500PAR64/NSP - $22.50]]></name>
+		<description><![CDATA[500PAR64/NSP]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25S11/2C - $4.00]]></name>
+		<description><![CDATA[25W/120V/S11/E12]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25A/W - $1.25]]></name>
+		<description><![CDATA[25W/120V/A19/E26/soft white]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25A11N/IF - $2.50]]></name>
+		<description><![CDATA[25W/120V/S11/E17/IF]]></description>
+		<manufacturer><![CDATA[  Import]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25T8/SCP/6 - $0.00]]></name>
+		<description><![CDATA[25W/6V/P15S]]></description>
+		<manufacturer><![CDATA[  Import]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[40G25/W - $2.30]]></name>
+		<description><![CDATA[40W/120V/G25/E26/white]]></description>
+		<manufacturer><![CDATA[  Import]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[40T10/F - $2.60]]></name>
+		<description><![CDATA[40W/120V/T10/E26/Frost]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR20/H/NFL30/130V - $5.50]]></name>
+		<description><![CDATA[50W/120V/PAR20/E26/NFL30]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR20/H/NSP10/130V - $5.50]]></name>
+		<description><![CDATA[50W/130V/PAR20/E26/NSP10]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[90PAR38/CAP/FL30/120V - $5.50]]></name>
+		<description><![CDATA[90W/120V/PAR38/E26MedSkt/FL30]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[90PAR38/CAP/SP9/120V - $5.50]]></name>
+		<description><![CDATA[90W/120V/PAR38/E26MedSkt/SP9]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR30/CAP/FL40/120V - $5.50]]></name>
+		<description><![CDATA[50W/120V/PAR30/E26/FL40]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR30/CAP/NFL25/120V - $5.50]]></name>
+		<description><![CDATA[50W/120V/PAR30/E26/NFL25]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR30/CAP/NSP9/120V - $5.50]]></name>
+		<description><![CDATA[50W/120V/PAR30/E26/NSP9]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FCL 2 Pack - $4.00]]></name>
+		<description><![CDATA[Q500T3/CL]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15S11/87 - $1.25]]></name>
+		<description><![CDATA[15W/120V/S11/E17]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[40S11N/1 - $3.00]]></name>
+		<description><![CDATA[40W/120V/S11/E17/Clear]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[6S6/130V - $0.46]]></name>
+		<description><![CDATA[6W/130V/S6/E12]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[6S6/DC/120V - $0.46]]></name>
+		<description><![CDATA[6W/120V/S6/Ba15d]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[7-1/2 S11/120V/CL - $1.45]]></name>
+		<description><![CDATA[7-1/2W/120V/S11/E26]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[7-1/2 S11/120V/CW - $1.80]]></name>
+		<description><![CDATA[7-1/2W 120V/S11/E26/ FROSTED]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[10S11N/CW - $2.50]]></name>
+		<description><![CDATA[10W/130V/S11/E17/CW]]></description>
+		<manufacturer><![CDATA[  Import]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15S11/F - $2.00]]></name>
+		<description><![CDATA[15W/120V/S11/E12]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15S11/14 - $4.75]]></name>
+		<description><![CDATA[15W/120V/S11/E12]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15S11/102/IF - $2.00]]></name>
+		<description><![CDATA[15W/120V/S11/E26/Frost]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[15T7N - $2.35]]></name>
+		<description><![CDATA[15W/120V/T7/E17/Clear]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[20T6.5/DC - $5.25]]></name>
+		<description><![CDATA[20W/120V/T6.5/Ba15d/Frost]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[500PAR64/MFL - $22.50]]></name>
+		<description><![CDATA[500PAR64/MFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[500PAR64/WFL - $22.50]]></name>
+		<description><![CDATA[500PAR64/WFL]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25S11/5C - $4.00]]></name>
+		<description><![CDATA[25W/120V/S11/E12/frost]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25A/CL - $1.30]]></name>
+		<description><![CDATA[25W/120V/A19/E26/Clear]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25T8/DC/120V - $2.45]]></name>
+		<description><![CDATA[25W/120V/T8/Ba15d]]></description>
+		<manufacturer><![CDATA[  Import]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[25T10/F/130V - $2.60]]></name>
+		<description><![CDATA[25W/130V/T10/E26/Frost]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[40T10 - $2.40]]></name>
+		<description><![CDATA[40W/120V/T10/E26/Clear]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR20/H/NFL30/120V - $5.50]]></name>
+		<description><![CDATA[50W/120V/PAR20/E26/NFL30]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR20/H/NSP10/120V - $5.50]]></name>
+		<description><![CDATA[50W/120V/PAR20/E26/NSP10]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR20/H/WFL40/120V - $5.50]]></name>
+		<description><![CDATA[50W/120V/PAR20/E26/WFL40]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[90PAR38/CAP/FL30/130V - $5.50]]></name>
+		<description><![CDATA[90W/130V/PAR38/E26MedSkt/FL30]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[90PAR38/CAP/SP9/130V - $5.50]]></name>
+		<description><![CDATA[90W/130V/PAR38/E26MedSkt/SP9]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR30/CAP/FL40/130V - $5.50]]></name>
+		<description><![CDATA[50W/130V/PAR30/E26/FL40]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR30/CAP/NFL25/130V - $5.50]]></name>
+		<description><![CDATA[50W/130V/PAR30/E26/NFL25]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[50PAR30/CAP/NSP9/130V - $5.50]]></name>
+		<description><![CDATA[50W/130V/PAR30/E26/NSP9]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Incandescent]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP 19/35 - $3.75]]></name>
+		<description><![CDATA[TCP 19 watt/35K spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP 19/27 - $3.75]]></name>
+		<description><![CDATA[TCP 19 watt/27K spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP 14/41 - $3.50]]></name>
+		<description><![CDATA[14Watt/41K Spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP 14/50 - $3.75]]></name>
+		<description><![CDATA[14 watt/50K spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP23/35 - $3.75]]></name>
+		<description><![CDATA[TCP 23 watt/35K spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP23/50 - $4.00]]></name>
+		<description><![CDATA[TCP 23 watt/50K spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP 19/50 - $4.00]]></name>
+		<description><![CDATA[TCP 19 watt/50K spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP14/27 - $3.50]]></name>
+		<description><![CDATA[14 watt/27K spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP 19/41 - $3.75]]></name>
+		<description><![CDATA[TCP 19 watt/41K spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP23/27 - $3.75]]></name>
+		<description><![CDATA[TCP 23 watt/27K spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TCP23/41 - $4.00]]></name>
+		<description><![CDATA[TCP 23 watt/41K spiral CFL]]></description>
+		<manufacturer><![CDATA[TCP]]></manufacturer>
+		<category><![CDATA[Compact Fluorescent Bulbs]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FSV - $10.00]]></name>
+		<description><![CDATA[Q20MR11/12V/Ba15d/NFL30deg]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FST - $7.50]]></name>
+		<description><![CDATA[Q20MR11/12V/Ba15d/SP17deg]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FTB - $3.50]]></name>
+		<description><![CDATA[Q20MR11/12V/GZ4/NSP10deg]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FTH - $2.25]]></name>
+		<description><![CDATA[Q35MR11/12V/GZ4/NFL30deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FTF - $3.50]]></name>
+		<description><![CDATA[Q35MR11/12V/GZ4/SP20deg]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ESX - $3.50]]></name>
+		<description><![CDATA[Q20MR16/12V/NSP12deg]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYS - $4.00]]></name>
+		<description><![CDATA[Q42MR16/12V/GU5.3/NFL20deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EXN - $2.50]]></name>
+		<description><![CDATA[Q50MR16/12V/GU5.3/FL40deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EXT - $3.50]]></name>
+		<description><![CDATA[Q50MR16/12V/GU5.3/NSP13deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FPC - $6.00]]></name>
+		<description><![CDATA[Q65MR16/12V/GU5.3/NFL24deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYC - $3.50]]></name>
+		<description><![CDATA[Q75MR16/12V/GU5.3/FL38deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYF - $3.50]]></name>
+		<description><![CDATA[Q75MR16/12V/GU5.3/NSP14deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FSB - $11.50]]></name>
+		<description><![CDATA[JDR120V75WL/M24deg/E17]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FSC - $12.00]]></name>
+		<description><![CDATA[JDR120V100WL/NFL14deg/E17]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FSF - $13.00]]></name>
+		<description><![CDATA[JDR120V100W/WFL38deg/E17]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[JDR120V75WL/MF - $15.20]]></name>
+		<description><![CDATA[JDR120V75WL/MF24deg/E26]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EXK/CC - $7.00]]></name>
+		<description><![CDATA[50W/12V/MR16/Gx5.3/NFL30]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FSS - $10.00]]></name>
+		<description><![CDATA[Q20MR11/12V/Ba15d/NSP10deg]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FTD - $3.50]]></name>
+		<description><![CDATA[Q20MR11/12V/GZ4/NFL30deg]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FTC - $3.00]]></name>
+		<description><![CDATA[Q20MR11/12V/GZ4/SP17deg]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FTE - $3.50]]></name>
+		<description><![CDATA[Q35MR11/12V/GZ4/NSP10deg]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[BAB - $3.50]]></name>
+		<description><![CDATA[Q20MR16/12V/GU5.3/FL36deg]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYP - $3.50]]></name>
+		<description><![CDATA[Q42MR16/12V/Gu5.3/FL36deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYS - $4.00]]></name>
+		<description><![CDATA[Q42MR16/12V/GU5.3/NSP12deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EXZ - $3.00]]></name>
+		<description><![CDATA[Q50MR16/12V/GU5.3/NFL24deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FPB - $3.50]]></name>
+		<description><![CDATA[Q65MR16/12V/GU5.3/FL38deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FPA - $3.00]]></name>
+		<description><![CDATA[Q65MR16/12V/GU5.3/NSP14deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EYJ - $3.50]]></name>
+		<description><![CDATA[Q75MR16/12V/GU5.3/MFL26deg]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FSA (JDR120V75WL/N14deg/E17) - $9.25]]></name>
+		<description><![CDATA[JDR120V75WL/N14deg/E17]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FSD - $11.50]]></name>
+		<description><![CDATA[JDR120V75WL/W38deg/E17]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[FSE - $13.00]]></name>
+		<description><![CDATA[JDR120V100WL/MFL24deg/E17]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[JDR120V75WL/N - $15.20]]></name>
+		<description><![CDATA[JDR120V75WL/N14deg/E26]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[JDR120V75WL/W - $15.20]]></name>
+		<description><![CDATA[JDR120V75WL/W30deg/E26]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Display Lamps]]></category>
+	</node>
+	<node>
+		<name><![CDATA[85 - $0.26]]></name>
+		<description><![CDATA[.04A/28V Min Wedge base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[93 - $1.05]]></name>
+		<description><![CDATA[1.04A/12.8V SC bay base]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[120MB - $0.70]]></name>
+		<description><![CDATA[.025A/120V Min Bay Base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[159 - $0.22]]></name>
+		<description><![CDATA[.15A/6.3V Min Wedge base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[222 - $0.23]]></name>
+		<description><![CDATA[.25A/2.25V Min Screw base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[327 - $0.25]]></name>
+		<description><![CDATA[.04A/28V Midget Flange base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[330 - $0.75]]></name>
+		<description><![CDATA[.08A/14V Midget Flange Base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[385 - $0.33]]></name>
+		<description><![CDATA[.04A/28V Midget Flange base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[388 - $0.33]]></name>
+		<description><![CDATA[.04A/28V Midget Groove base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[778 - $6.00]]></name>
+		<description><![CDATA[3.33A/6V 2 pin Halogen]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[918 - $1.00]]></name>
+		<description><![CDATA[.56A/12.8V Min Wedge base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[245 - $0.60]]></name>
+		<description><![CDATA[.5A/2.46V/G3.5 Min Screw base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1129 - $1.25]]></name>
+		<description><![CDATA[2.63A/6.4V SC Bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1156 - $0.90]]></name>
+		<description><![CDATA[2.1A/12.8V SC Bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1195 - $0.85]]></name>
+		<description><![CDATA[3A/12.5V SC Bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1460X - $6.50]]></name>
+		<description><![CDATA[2.75A/6.5V/S8/DCprefocus]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1634 - $6.50]]></name>
+		<description><![CDATA[1A/20V/S8/DCprefocus]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1763 - $5.25]]></name>
+		<description><![CDATA[4.1A/6.1V/S11/SCprefocus]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1819 - $0.50]]></name>
+		<description><![CDATA[.04A/28V/T3-1/4/Min Bay Base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1822 - $0.45]]></name>
+		<description><![CDATA[.1A/36V/T-3-1/4/Min Bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[2057 - $0.45]]></name>
+		<description><![CDATA[2.1-.48A/12.8-14V/S8/DC Index Bay Base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[PR2 - $0.20]]></name>
+		<description><![CDATA[.5A/2.38V/B3-1/2/SC Min Flange base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[14 - $1.25]]></name>
+		<description><![CDATA[.3A/2.47V/G3-1/2/Min Screw base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[46 - $0.20]]></name>
+		<description><![CDATA[.25A/6.3V/T3-1/4/Min Screw base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[53X - $0.22]]></name>
+		<description><![CDATA[.12A/14.4V/G3-1/2/Min Bay base]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[57 - $0.20]]></name>
+		<description><![CDATA[.24A/14V/G4-1/2/Min Bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1468 - $12.00]]></name>
+		<description><![CDATA[4.5A/6V/S8/PG22]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1507 - $5.00]]></name>
+		<description><![CDATA[3A/12.5V/RP11/SCprefocus]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64341 - $23.50]]></name>
+		<description><![CDATA[30W/12V/T3/Pg2]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64111 - $5.00]]></name>
+		<description><![CDATA[5W/12V/BA9s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64405 - $3.00]]></name>
+		<description><![CDATA[Q5T3/12V/G4]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64425 - $6.00]]></name>
+		<description><![CDATA[Q20T3/G4/T3]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64486 - $11.50]]></name>
+		<description><![CDATA[100T10/H/CF/120V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[87 - $0.26]]></name>
+		<description><![CDATA[1.91A/6.8V SC bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[98 - $0.40]]></name>
+		<description><![CDATA[.62A/13V SC bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[120PSB5 - $0.95]]></name>
+		<description><![CDATA[.025A/120V slide base 5]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[194 - $0.19]]></name>
+		<description><![CDATA[.27A/14V Min Wedge base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[259 - $0.30]]></name>
+		<description><![CDATA[.25A/6.3V Min Wedge base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[328 - $0.65]]></name>
+		<description><![CDATA[.2A/6V Midget Flange base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[382 - $0.45]]></name>
+		<description><![CDATA[.08A/14V Midget Flange base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[387 - $0.35]]></name>
+		<description><![CDATA[.04A/28V Midget Flange base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[656 - $0.26]]></name>
+		<description><![CDATA[.06A/28V Min Wedge Base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[787 - $6.00]]></name>
+		<description><![CDATA[1.67A/6V 2 pin Halogen]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[233 - $0.50]]></name>
+		<description><![CDATA[.27A/2.33V Min Screw Base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1096 - $12.50]]></name>
+		<description><![CDATA[4.5A/6V DC pf]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1133 - $2.25]]></name>
+		<description><![CDATA[3.91A/6.2V SC Bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1157 - $0.19]]></name>
+		<description><![CDATA[2.1A/12.8V-14 DC Index Bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1460 - $7.50]]></name>
+		<description><![CDATA[2.75A/6.5V DC Pf base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1489 - $11.50]]></name>
+		<description><![CDATA[2.75A/6.5V/T5/Ba15s]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1651 - $0.50]]></name>
+		<description><![CDATA[.6A/5V/S8/BA15s]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1818 - $0.33]]></name>
+		<description><![CDATA[.17A/24V/T3-1/4/Min Bay Base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1820 - $0.25]]></name>
+		<description><![CDATA[.1A/28V/T3-1/4/MinBayBase]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1893 - $0.35]]></name>
+		<description><![CDATA[.33A/14V/T3-1/4/Min Bay Base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[2604X - $29.50]]></name>
+		<description><![CDATA[10W/5V/TL2-3/4/G4]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[PR20 - $0.27]]></name>
+		<description><![CDATA[.5A/8.63V/B3-1/2/SC Min Flange base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[43 - $0.50]]></name>
+		<description><![CDATA[.5A/2.5V/T3-1/4/Min Bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[47 - $0.35]]></name>
+		<description><![CDATA[.15A/6.3V/T3-1/4/Min Bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[55 - $0.20]]></name>
+		<description><![CDATA[.41A/7V/G4-1/2/Min Bay base]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[81 - $0.27]]></name>
+		<description><![CDATA[1.02A/6.5V/G6/Ba15s]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[1493 - $3.85]]></name>
+		<description><![CDATA[18W/6.5V/S8/Ba15d]]></description>
+		<manufacturer><![CDATA[  GE]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64342 - $12.00]]></name>
+		<description><![CDATA[15V/100W]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64260 - $16.00]]></name>
+		<description><![CDATA[30W/12V/T3/Pg2]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64115 - $4.00]]></name>
+		<description><![CDATA[20W/12V/BA9s]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64410 - $6.50]]></name>
+		<description><![CDATA[6V/10W/G4/T9]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64435 - $7.50]]></name>
+		<description><![CDATA[Q20T3/CL/24V]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[64514 - $7.25]]></name>
+		<description><![CDATA[300W/120V/GX6.35]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Miniatures]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK98-UV - $104.00]]></name>
+		<description><![CDATA[WK98-UV Flashtube]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK92-UV - $48.00]]></name>
+		<description><![CDATA[1000W/800V Novatron - #2100 thru #2160/1000w/sHeads Colorcorrected]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK76 - $30.00]]></name>
+		<description><![CDATA[400W/600-1000V Speedotron MW3R, MW40Q]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK95 - $50.00]]></name>
+		<description><![CDATA[400W/400V Photogenic H4-1 (Qc4) (DM7/FT300) (Ascor 060-601) (Ascor 060-603)]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK96 - $100.00]]></name>
+		<description><![CDATA[2000W/900V Norman FQ3 Photogenic-EP287]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK96-UV - $108.00]]></name>
+		<description><![CDATA[2000W/900V Norman FQ3 Photogenic-EP287 ColorCorrected]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK98 - $98.00]]></name>
+		<description><![CDATA[3200W/600-1200V Speedotron MW8QV(14570)#102]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK120HD - $20.00]]></name>
+		<description><![CDATA[400W/450V Photogenic H4-6HD]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK140HD - $24.00]]></name>
+		<description><![CDATA[400W/450-500V Norman 400B]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK152 - $17.00]]></name>
+		<description><![CDATA[10-30W/400V FT152A-GE]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK92 - $48.00]]></name>
+		<description><![CDATA[1000W/800V Novatron - #2100 thru #2160/1000w/sHeads]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK94-UV - $28.00]]></name>
+		<description><![CDATA[400W/800V Novatron #2000 thru #2060 500w/sHeads (Color Corrected)]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK76-UV - $30.00]]></name>
+		<description><![CDATA[400W 600-1000V Speedotron MW3-UV(Color Corrected)]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK93 - $22.00]]></name>
+		<description><![CDATA[200W/400V Photgenic C4-1 (A390)]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK94 - $24.00]]></name>
+		<description><![CDATA[400W/800V Novatron #2000 thru #2060 500w/sHeads]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK97 - $51.00]]></name>
+		<description><![CDATA[400W/900V Photogenic H9-1 (MW7/FT306/B)]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK101 - $126.00]]></name>
+		<description><![CDATA[600-1000W/450-950V Photogenic C4-5]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK120HD-UV - $24.00]]></name>
+		<description><![CDATA[400W/450V Photogenic H4-6HD Lumedyne #090-UV (DM15-UV) (Ascor 660-860) ColorCorrected]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[WK140HD-UV - $25.00]]></name>
+		<description><![CDATA[400W/450-500V Norman 400B-UV ColorCorrected]]></description>
+		<manufacturer><![CDATA[  Eiko]]></manufacturer>
+		<category><![CDATA[Flashtubes]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TP22XL - $12.00]]></name>
+		<description><![CDATA[TP22XL w/Cable Assy (69006)]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Sockets]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TP22H - $18.00]]></name>
+		<description><![CDATA[TP22H w/Cable Assy (69005)]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Sockets]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TP22H - $28.00]]></name>
+		<description><![CDATA[TP22H w/Cable Assy (69017)]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Sockets]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SFC10-4 - $35.00]]></name>
+		<description><![CDATA[SFC10-4 Lamp holder (69004)]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Sockets]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TP220XL - $16.00]]></name>
+		<description><![CDATA[TP220XL - $16.00]]></description>
+		<manufacturer><![CDATA[  Ushio]]></manufacturer>
+		<category><![CDATA[Sockets]]></category>
+	</node>
+	<node>
+		<name><![CDATA[P28S - $18.00]]></name>
+		<description><![CDATA[P28S - $18.00]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Sockets]]></category>
+	</node>
+	<node>
+		<name><![CDATA[TP22H - $27.00]]></name>
+		<description><![CDATA[TP22H - $27.00]]></description>
+		<manufacturer><![CDATA[  Osram]]></manufacturer>
+		<category><![CDATA[Sockets]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP130C - $33.50]]></name>
+		<description><![CDATA[Panasonic PV-BP50 (Lead)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP100C - $32.00]]></name>
+		<description><![CDATA[Panasonic PV-BP80/88 (Lead)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP110 - $33.50]]></name>
+		<description><![CDATA[JVC GR-C9,11 (Grip Type - NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP115 - $42.00]]></name>
+		<description><![CDATA[Sharp BT-21, 22 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP142S - $40.00]]></name>
+		<description><![CDATA[RCA EP-096FL/Minolta VBP-166 (Short)(Lead)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP150-2 - $27.00]]></name>
+		<description><![CDATA[Panasonic PV-BP15, 17 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP4496 - $39.00]]></name>
+		<description><![CDATA[EPP4496 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPPKNB17 - $40.00]]></name>
+		<description><![CDATA[EPPKNB17 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP106 - $50.00]]></name>
+		<description><![CDATA[Hitachi VMP 51,52 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP124-2 - $56.00]]></name>
+		<description><![CDATA[Hitachi VMBP63A/ RCA BP-96FL (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP104 - $46.00]]></name>
+		<description><![CDATA[RCA CB-120 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP109-2 - $27.00]]></name>
+		<description><![CDATA[Sony NP-66 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP113 - $42.00]]></name>
+		<description><![CDATA[Minolta/Pentax 8mm (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP118-2 - $25.00]]></name>
+		<description><![CDATA[Canon BP-E722 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP143-2 - $33.50]]></name>
+		<description><![CDATA[RCA BB-060/Hitachi VM-BP82 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP154-2 - $40.00]]></name>
+		<description><![CDATA[Goldstar GVC-A425, C425 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPPKNB15 - $45.00]]></name>
+		<description><![CDATA[EPPKNB15 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP101C - $37.00]]></name>
+		<description><![CDATA[Panasonic LCS-2012 VBNC (Lead)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPP114 - $57.50]]></name>
+		<description><![CDATA[Sony/Sanyo NP1 (NiCad)]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Camcorder Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA12-6S - $30.00]]></name>
+		<description><![CDATA[6V 12Ah S Connector SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA 7-12 - $22.00]]></name>
+		<description><![CDATA[12V 7Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA 4-6 - $12.00]]></name>
+		<description><![CDATA[6V 4.5Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA 24-12 - $65.00]]></name>
+		<description><![CDATA[12V 26Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA 17-12 - $42.00]]></name>
+		<description><![CDATA[12V 18Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA 10-12 - $36.00]]></name>
+		<description><![CDATA[10V 12Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA10-12T/T25 - $36.00]]></name>
+		<description><![CDATA[12V 10Ah SLA Tall w/ Faston]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA12-6A - $32.00]]></name>
+		<description><![CDATA[6V 12Ah A Connector SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA12-6H - $30.00]]></name>
+		<description><![CDATA[6V 12Ah H Connector SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA2.9-12 - $25.00]]></name>
+		<description><![CDATA[12V 2.9Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA3-6 - $12.00]]></name>
+		<description><![CDATA[6V 3Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA4.5-4 - $10.00]]></name>
+		<description><![CDATA[4V 4.5 Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA5-12/T25 - $20.00]]></name>
+		<description><![CDATA[12V 5Ah SLA w/ .250 Faston]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA7-12/T25 - $22.00]]></name>
+		<description><![CDATA[12V 7Ah SLA w/ .250 Faston]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA9-12 - $35.00]]></name>
+		<description><![CDATA[12V 9Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA9-6 - $25.00]]></name>
+		<description><![CDATA[6V 9Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA10-12/T25 - $36.00]]></name>
+		<description><![CDATA[12V 12Ah SLA w/.250 Faston]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA 7-6 - $15.00]]></name>
+		<description><![CDATA[6V 7Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA 33-12 - $75.00]]></name>
+		<description><![CDATA[12V 35Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA 2.2-12 - $20.00]]></name>
+		<description><![CDATA[12V 2.2Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA 10-6 - $24.00]]></name>
+		<description><![CDATA[6V 12Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA 9-4 - $25.00]]></name>
+		<description><![CDATA[4V 9Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA10-6/T25 - $22.00]]></name>
+		<description><![CDATA[6V 12Ah SLA w/.250 Faston]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA12-6 - $30.00]]></name>
+		<description><![CDATA[6V 12Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA2.8-6 - $18.00]]></name>
+		<description><![CDATA[6V 2.8Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA3-12 - $25.00]]></name>
+		<description><![CDATA[12V 3.4Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA33-12FP - $75.00]]></name>
+		<description><![CDATA[12V 35Ah SLA w/FP Connector]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA5-12 - $20.00]]></name>
+		<description><![CDATA[12V 5Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA55-12 - $145.00]]></name>
+		<description><![CDATA[12V 55Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA75-12FP - $175.00]]></name>
+		<description><![CDATA[12V 75Ah SLA]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[SLA9-12/T25 - $35.00]]></name>
+		<description><![CDATA[12V 9Ah SLA w/ Faston]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Sealed Lead Acid Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E91 - $0.55]]></name>
+		<description><![CDATA[AA 1.5V Alkaline Energizer]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[2CR5PA/1B - $5.75]]></name>
+		<description><![CDATA[6.0V Lithium Cylinder]]></description>
+		<manufacturer><![CDATA[  Panasonic]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CR2PA/1B - $3.85]]></name>
+		<description><![CDATA[3.0V Lithium Cylinder]]></description>
+		<manufacturer><![CDATA[  Panasonic]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[AC13E-4 - $3.75]]></name>
+		<description><![CDATA[1.4V Zinc Air (4 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EL2CR5BP - $10.00]]></name>
+		<description><![CDATA[6.0V Lithium]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E95 - $1.25]]></name>
+		<description><![CDATA[D 1.5V Alkaline Energizer]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[A76BP - $1.00]]></name>
+		<description><![CDATA[1.5V Manganese Dioxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EPX76BP - $2.50]]></name>
+		<description><![CDATA[1.5V Silver Oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E96-BP2 - $2.50]]></name>
+		<description><![CDATA[AAAA 1.5V Alkaline Engergizer (2 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[L91-BP2 - $4.95]]></name>
+		<description><![CDATA[AA 1.5V Lithium Energizer (2 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E91-BP2 - $2.50]]></name>
+		<description><![CDATA[AA 1.5V Alkaline Energizer (2 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E92-BP2 - $2.50]]></name>
+		<description><![CDATA[AAA 1.5V Alkaline Energizer (2 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E93-BP2 - $3.75]]></name>
+		<description><![CDATA[C 1.5V Alkaline Energizer (2 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[319BP - $1.15]]></name>
+		<description><![CDATA[1.5V Silver Oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[371BP - $0.95]]></name>
+		<description><![CDATA[1.5V Silver Oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[390/389BP - $0.95]]></name>
+		<description><![CDATA[1.5V Silver Oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[397BP - $0.95]]></name>
+		<description><![CDATA[1.5V Silver Oxice]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ECR1216 - $1.95]]></name>
+		<description><![CDATA[3.0V Lithium Coin]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ECR1620 - $1.30]]></name>
+		<description><![CDATA[3.0V Lithium Coin]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ECR2025 - $1.30]]></name>
+		<description><![CDATA[3.0V Lithium Coin]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[A544BP - $3.25]]></name>
+		<description><![CDATA[6.0V Alkaline]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[309SP - $1.05]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[317BP - $0.90]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[329BP - $1.00]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[337SP - $2.00]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[357/303BP - $1.50]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[364BP - $0.95]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[373ST - $0.95]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[377BP - $0.95]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[381SP - $0.75]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MN2400 - $0.50]]></name>
+		<description><![CDATA[Duracell AAA]]></description>
+		<manufacturer><![CDATA[  Duracell]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EN95 - $1.15]]></name>
+		<description><![CDATA[Energizer Industrial D Battery]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[PC1604 - $1.75]]></name>
+		<description><![CDATA[Duracell Procell 9 volt battery]]></description>
+		<manufacturer><![CDATA[  Duracell]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[AC675E4 - $3.75]]></name>
+		<description><![CDATA[1.4V Zinc Air (4 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[392BP - $0.95]]></name>
+		<description><![CDATA[1.5V Silver Oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ECR1220 - $1.30]]></name>
+		<description><![CDATA[3.0V Lithium Coin]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ECR2450 - $2.50]]></name>
+		<description><![CDATA[3.0V Lithium Coin]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[P2111ACS - $3.75]]></name>
+		<description><![CDATA[Eveready 2 AA Penlight w/batteries]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CRP2PA/1B - $5.75]]></name>
+		<description><![CDATA[6.0V Lithium Cylinder]]></description>
+		<manufacturer><![CDATA[  Panasonic]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[CR123APA/1B - $3.75]]></name>
+		<description><![CDATA[3.0V Lithium Cylinder]]></description>
+		<manufacturer><![CDATA[  Panasonic]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[AZ10E-4 - $3.75]]></name>
+		<description><![CDATA[1.4V Zinc Air (4 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[AC312E-4 - $3.75]]></name>
+		<description><![CDATA[1.4V Zinc Air (4 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E92 - $0.55]]></name>
+		<description><![CDATA[AAA 1.5V Alkaline Energizer]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[A23-BP2 - $2.50]]></name>
+		<description><![CDATA[12V Manganese Dioxide (2 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[2L76BP - $3.00]]></name>
+		<description><![CDATA[3.0V Lithium]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E90-BP2 - $2.50]]></name>
+		<description><![CDATA[N 1.5V Alkaline Energizer (2 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EL223APBP - $10.00]]></name>
+		<description><![CDATA[6.0V Lithium]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[L91-BP4 - $9.00]]></name>
+		<description><![CDATA[AA 1.5V Lithium Energizer (4 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E91-BP4 - $4.00]]></name>
+		<description><![CDATA[AA 1.5V Alkaline Energizer (4 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E92-BP4 - $4.00]]></name>
+		<description><![CDATA[AAA 1.5V Alkaline Energizer (4 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[E95-BP2 - $3.75]]></name>
+		<description><![CDATA[D cell 1.5V Alkaline Energizer (2 pack)]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[362BP - $0.95]]></name>
+		<description><![CDATA[1.5V Silver Oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[386/301BP - $0.95]]></name>
+		<description><![CDATA[1.5V Silver Oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[391BP - $0.95]]></name>
+		<description><![CDATA[1.5V Silver Oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ECR1025 - $1.30]]></name>
+		<description><![CDATA[3.0V Lithium Coin]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ECR1616 - $1.95]]></name>
+		<description><![CDATA[3.0V Lithium Coin]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ECR2016 - $1.30]]></name>
+		<description><![CDATA[3.0V Lithium Coin]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ECR2032 - $1.30]]></name>
+		<description><![CDATA[3.0V Lithium Coin]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[301BP - USE 386BP - $0.00]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[315SP - $0.90]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[321BP - $0.75]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[335SP - $1.30]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[344SP - $1.00]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[361SP - See 362BP - $0.00]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[366BP - $0.80]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[376BP - See 377BP - $0.00]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[379BP - $1.10]]></name>
+		<description><![CDATA[1.5V silver oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[PC1500 - $0.55]]></name>
+		<description><![CDATA[Procell AA]]></description>
+		<manufacturer><![CDATA[  Duracell]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[MN1604 - $1.50]]></name>
+		<description><![CDATA[Duracell Procell 9 volt battery]]></description>
+		<manufacturer><![CDATA[  Duracell]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[EN93 - $0.95]]></name>
+		<description><![CDATA[Energizer Industrial C battery]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[522BP - $3.75]]></name>
+		<description><![CDATA[Energizer 9 volt alkaline battery - Single pack]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[389BP - $0.95]]></name>
+		<description><![CDATA[1.5V Silver Oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[395BP - $0.95]]></name>
+		<description><![CDATA[1.5V Silver Oxide]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[ECR2430 - $2.00]]></name>
+		<description><![CDATA[3.0V Lithium Coin]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[R3251ND - $1.50]]></name>
+		<description><![CDATA[Eveready 2 D cell flashlight]]></description>
+		<manufacturer><![CDATA[  Energizer]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+	<node>
+		<name><![CDATA[PLED23AE - $7.25]]></name>
+		<description><![CDATA[Eveready LED Pen Light w/ batteries]]></description>
+		<manufacturer><![CDATA[  Empire]]></manufacturer>
+		<category><![CDATA[Batteries]]></category>
+	</node>
+</data>
